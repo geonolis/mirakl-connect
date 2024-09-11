@@ -1,0 +1,1055 @@
+03/09/2024 01:23:58 pm 
+		{
+			"offers": [
+        {
+	        "description": "ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑ" ,
+            "internal_description": "ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑ",
+            "leadtime_to_ship": 3,
+            "logistic_class": "standard",
+            "offer_additional_fields": [
+                {
+	                "code": "offervat",
+                    "type": "LIST",
+                    "value": " "
+                },
+                {
+	                "code": "shippingvat",
+                    "type": "LIST",
+                    "value": "24"
+                }
+            ],
+            "price": 3.4,
+            "all_prices": [
+                {
+	                "price": 3.4,
+                    "unit_discount_price": ,
+                    "unit_origin_price": 3.4
+                }
+            ],
+            "product_id": " 3154148460206",
+            "product_id_type": "EAN",
+            "quantity": " 2503",
+            "shop_sku": " MAP846020",
+            "state_code": "11",
+            "update_delete": "update"
+        }
+    ]
+}
+03/09/2024 01:23:58 pm {
+  "message" : "Error with field offers.all_prices. Please check the field datatype.",
+  "status" : 400
+}
+03/09/2024 01:23:58 pm 
+		{
+			"offers": [
+        {
+	        "description": "ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑ" ,
+            "internal_description": "ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑ",
+            "leadtime_to_ship": 3,
+            "logistic_class": "standard",
+            "offer_additional_fields": [
+                {
+	                "code": "offervat",
+                    "type": "LIST",
+                    "value": " "
+                },
+                {
+	                "code": "shippingvat",
+                    "type": "LIST",
+                    "value": "24"
+                }
+            ],
+            "price": 3.4,
+            "all_prices": [
+                {
+	                "price": 3.4,
+                    "unit_discount_price": ,
+                    "unit_origin_price": 3.4
+                }
+            ],
+            "product_id": " 3154148460206",
+            "product_id_type": "EAN",
+            "quantity": " 2503",
+            "shop_sku": " MAP846020",
+            "state_code": "11",
+            "update_delete": "update"
+        }
+    ]
+}
+03/09/2024 01:23:58 pm {
+  "message" : "Error with field offers.all_prices. Please check the field datatype.",
+  "status" : 400
+}
+03/09/2024 01:29:13 pm 
+03/09/2024 01:29:13 pm {
+  "message" : "Body is required",
+  "status" : 400
+}
+03/09/2024 01:29:14 pm 
+03/09/2024 01:29:14 pm {
+  "message" : "Body is required",
+  "status" : 400
+}
+03/09/2024 01:30:54 pm 
+		{
+			"offers": [
+        {
+	        "description": "ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑ" ,
+            "internal_description": "ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑ",
+            "leadtime_to_ship": 3,
+            "logistic_class": "standard",
+            "offer_additional_fields": [
+                {
+	                "code": "offervat",
+                    "type": "LIST",
+                    "value": " "
+                },
+                {
+	                "code": "shippingvat",
+                    "type": "LIST",
+                    "value": "24"
+                }
+            ],
+            "price": 3.4,
+            "all_prices": [
+                {
+	                "price": 3.4,
+                    "unit_discount_price": null ,
+                    "unit_origin_price": 3.4
+                }
+            ],
+            "product_id": " 3154148460206",
+            "product_id_type": "EAN",
+            "quantity": " 2503",
+            "shop_sku": " MAP846020",
+            "state_code": "11",
+            "update_delete": "update"
+        }
+    ]
+}
+03/09/2024 01:30:54 pm {
+  "import_id" : 9738263
+}
+03/09/2024 01:30:55 pm 
+		{
+			"offers": [
+        {
+	        "description": "ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑ" ,
+            "internal_description": "ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑ",
+            "leadtime_to_ship": 3,
+            "logistic_class": "standard",
+            "offer_additional_fields": [
+                {
+	                "code": "offervat",
+                    "type": "LIST",
+                    "value": " "
+                },
+                {
+	                "code": "shippingvat",
+                    "type": "LIST",
+                    "value": "24"
+                }
+            ],
+            "price": 3.4,
+            "all_prices": [
+                {
+	                "price": 3.4,
+                    "unit_discount_price": null ,
+                    "unit_origin_price": 3.4
+                }
+            ],
+            "product_id": " 3154148460206",
+            "product_id_type": "EAN",
+            "quantity": " 2503",
+            "shop_sku": " MAP846020",
+            "state_code": "11",
+            "update_delete": "update"
+        }
+    ]
+}
+03/09/2024 01:30:55 pm {
+  "import_id" : 9738263
+}
+03/09/2024 01:41:35 pm 
+		{
+			"offers": [
+        {
+	        "description": "ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑ" ,
+            "internal_description": "ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑ",
+            "leadtime_to_ship": 3,
+            "logistic_class": "standard",
+            "offer_additional_fields": [
+                {
+	                "code": "offervat",
+                    "type": "LIST",
+                    "value": " "
+                },
+                {
+	                "code": "shippingvat",
+                    "type": "LIST",
+                    "value": "24"
+                }
+            ],
+            "price": 3.4,
+            "all_prices": [
+                {
+	                "price": 3.4,
+                    "unit_discount_price": null ,
+                    "unit_origin_price": 3.4
+                }
+            ],
+            "product_id": " 3154148460206",
+            "product_id_type": "EAN",
+            "quantity": " 2503",
+            "shop_sku": " MAP846020",
+            "state_code": "11",
+            "update_delete": "update"
+        }
+    ]
+}
+03/09/2024 01:41:35 pm {
+  "import_id" : 9738267
+}
+03/09/2024 01:41:35 pm 
+		{
+			"offers": [
+        {
+	        "description": "ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑ" ,
+            "internal_description": "ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑ",
+            "leadtime_to_ship": 3,
+            "logistic_class": "standard",
+            "offer_additional_fields": [
+                {
+	                "code": "offervat",
+                    "type": "LIST",
+                    "value": " "
+                },
+                {
+	                "code": "shippingvat",
+                    "type": "LIST",
+                    "value": "24"
+                }
+            ],
+            "price": 3.4,
+            "all_prices": [
+                {
+	                "price": 3.4,
+                    "unit_discount_price": null ,
+                    "unit_origin_price": 3.4
+                }
+            ],
+            "product_id": " 3154148460206",
+            "product_id_type": "EAN",
+            "quantity": " 2503",
+            "shop_sku": " MAP846020",
+            "state_code": "11",
+            "update_delete": "update"
+        }
+    ]
+}
+03/09/2024 01:41:35 pm {
+  "import_id" : 9738268
+}
+03/09/2024 01:48:03 pm 
+03/09/2024 01:48:04 pm 
+		{
+			"offers": [
+        {
+	        "description": "ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑ" ,
+            "internal_description": "ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑ",
+            "leadtime_to_ship": 3,
+            "logistic_class": "standard",
+            "offer_additional_fields": [
+                {
+	                "code": "offervat",
+                    "type": "LIST",
+                    "value": " "
+                },
+                {
+	                "code": "shippingvat",
+                    "type": "LIST",
+                    "value": "24"
+                }
+            ],
+            "price": 3.4,
+            "all_prices": [
+                {
+	                "price": 3.4,
+                    "unit_discount_price": null ,
+                    "unit_origin_price": 3.4
+                }
+            ],
+            "product_id": " 3154148460206",
+            "product_id_type": "EAN",
+            "quantity": " 2503",
+            "shop_sku": " MAP846020",
+            "state_code": "11",
+            "update_delete": "update"
+        }
+    ]
+}
+03/09/2024 01:48:04 pm {
+  "import_id" : 9738269
+}
+03/09/2024 01:48:04 pm 
+03/09/2024 01:48:04 pm 
+		{
+			"offers": [
+        {
+	        "description": "ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑ" ,
+            "internal_description": "ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑ",
+            "leadtime_to_ship": 3,
+            "logistic_class": "standard",
+            "offer_additional_fields": [
+                {
+	                "code": "offervat",
+                    "type": "LIST",
+                    "value": " "
+                },
+                {
+	                "code": "shippingvat",
+                    "type": "LIST",
+                    "value": "24"
+                }
+            ],
+            "price": 3.4,
+            "all_prices": [
+                {
+	                "price": 3.4,
+                    "unit_discount_price": null ,
+                    "unit_origin_price": 3.4
+                }
+            ],
+            "product_id": " 3154148460206",
+            "product_id_type": "EAN",
+            "quantity": " 2503",
+            "shop_sku": " MAP846020",
+            "state_code": "11",
+            "update_delete": "update"
+        }
+    ]
+}
+03/09/2024 01:48:04 pm {
+  "import_id" : 9738270
+}
+03/09/2024 01:53:57 pm 
+03/09/2024 01:53:57 pm 
+		{
+			"offers": [
+        {
+	        "description": "ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑ" ,
+            "internal_description": "ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑ",
+            "leadtime_to_ship": 3,
+            "logistic_class": "standard",
+            "offer_additional_fields": [
+                {
+	                "code": "offervat",
+                    "type": "LIST",
+                    "value": " 24"
+                },
+                {
+	                "code": "shippingvat",
+                    "type": "LIST",
+                    "value": "24"
+                }
+            ],
+            "price": 3.4,
+            "all_prices": [
+                {
+	                "price": 3.4,
+                    "unit_discount_price": null ,
+                    "unit_origin_price": 3.4
+                }
+            ],
+            "product_id": " 3154148460206",
+            "product_id_type": "EAN",
+            "quantity": " 2503",
+            "shop_sku": " MAP846020",
+            "state_code": "11",
+            "update_delete": "update"
+        }
+    ]
+}
+03/09/2024 01:53:57 pm {
+  "import_id" : 9738273
+}
+03/09/2024 01:53:58 pm 
+03/09/2024 01:53:58 pm 
+		{
+			"offers": [
+        {
+	        "description": "ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑ" ,
+            "internal_description": "ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑ",
+            "leadtime_to_ship": 3,
+            "logistic_class": "standard",
+            "offer_additional_fields": [
+                {
+	                "code": "offervat",
+                    "type": "LIST",
+                    "value": " 24"
+                },
+                {
+	                "code": "shippingvat",
+                    "type": "LIST",
+                    "value": "24"
+                }
+            ],
+            "price": 3.4,
+            "all_prices": [
+                {
+	                "price": 3.4,
+                    "unit_discount_price": null ,
+                    "unit_origin_price": 3.4
+                }
+            ],
+            "product_id": " 3154148460206",
+            "product_id_type": "EAN",
+            "quantity": " 2503",
+            "shop_sku": " MAP846020",
+            "state_code": "11",
+            "update_delete": "update"
+        }
+    ]
+}
+03/09/2024 01:53:58 pm {
+  "import_id" : 9738274
+}
+03/09/2024 01:56:44 pm 
+03/09/2024 01:56:45 pm 
+		{
+			"offers": [
+        {
+	        "description": "ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑ" ,
+            "internal_description": "ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑ",
+            "leadtime_to_ship": 3,
+            "logistic_class": "small",
+            "offer_additional_fields": [
+                {
+	                "code": "offervat",
+                    "type": "LIST",
+                    "value": "24"
+                },
+                {
+	                "code": "shippingvat",
+                    "type": "LIST",
+                    "value": "24"
+                }
+            ],
+            "price": 3.4,
+            "all_prices": [
+                {
+	                "price": 3.4,
+                    "unit_discount_price": null ,
+                    "unit_origin_price": 3.4
+                }
+            ],
+            "product_id": " 3154148460206",
+            "product_id_type": "EAN",
+            "quantity": " 2503",
+            "shop_sku": " MAP846020",
+            "state_code": "11",
+            "update_delete": "update"
+        }
+    ]
+}
+03/09/2024 01:56:45 pm {
+  "import_id" : 9738275
+}
+03/09/2024 01:56:45 pm 
+03/09/2024 01:56:45 pm 
+		{
+			"offers": [
+        {
+	        "description": "ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑ" ,
+            "internal_description": "ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑ",
+            "leadtime_to_ship": 3,
+            "logistic_class": "small",
+            "offer_additional_fields": [
+                {
+	                "code": "offervat",
+                    "type": "LIST",
+                    "value": "24"
+                },
+                {
+	                "code": "shippingvat",
+                    "type": "LIST",
+                    "value": "24"
+                }
+            ],
+            "price": 3.4,
+            "all_prices": [
+                {
+	                "price": 3.4,
+                    "unit_discount_price": null ,
+                    "unit_origin_price": 3.4
+                }
+            ],
+            "product_id": " 3154148460206",
+            "product_id_type": "EAN",
+            "quantity": " 2503",
+            "shop_sku": " MAP846020",
+            "state_code": "11",
+            "update_delete": "update"
+        }
+    ]
+}
+03/09/2024 01:56:45 pm {
+  "import_id" : 9738276
+}
+03/09/2024 02:00:44 pm 
+03/09/2024 02:00:45 pm 
+		{
+			"offers": [
+        {
+	        "description": "ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑ" ,
+            "internal_description": "ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑ",
+            "leadtime_to_ship": 3,
+            "logistic_class": "small",
+            "offer_additional_fields": [
+                {
+	                "code": "offervat",
+                    "type": "LIST",
+                    "value": "24"
+                },
+                {
+	                "code": "shippingvat",
+                    "type": "LIST",
+                    "value": "24"
+                }
+            ],
+            "price": 3.4,
+            "all_prices": [
+                {
+	                "price": 3.4,
+                    "unit_discount_price": null ,
+                    "unit_origin_price": 3.4
+                }
+            ],
+            "product_id": "3154148460206",
+            "product_id_type": "EAN",
+            "quantity": " 2503",
+            "shop_sku": " MAP846020",
+            "state_code": "11",
+            "update_delete": "update"
+        }
+    ]
+}
+03/09/2024 02:00:45 pm {
+  "import_id" : 9738288
+}
+03/09/2024 02:00:45 pm 
+03/09/2024 02:00:45 pm 
+		{
+			"offers": [
+        {
+	        "description": "ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑ" ,
+            "internal_description": "ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑ",
+            "leadtime_to_ship": 3,
+            "logistic_class": "small",
+            "offer_additional_fields": [
+                {
+	                "code": "offervat",
+                    "type": "LIST",
+                    "value": "24"
+                },
+                {
+	                "code": "shippingvat",
+                    "type": "LIST",
+                    "value": "24"
+                }
+            ],
+            "price": 3.4,
+            "all_prices": [
+                {
+	                "price": 3.4,
+                    "unit_discount_price": null ,
+                    "unit_origin_price": 3.4
+                }
+            ],
+            "product_id": "3154148460206",
+            "product_id_type": "EAN",
+            "quantity": " 2503",
+            "shop_sku": " MAP846020",
+            "state_code": "11",
+            "update_delete": "update"
+        }
+    ]
+}
+03/09/2024 02:00:45 pm {
+  "import_id" : 9738288
+}
+03/09/2024 02:04:01 pm 
+03/09/2024 02:04:02 pm 
+		{
+			"offers": [
+        {
+	        "description": "ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑ" ,
+            "internal_description": "ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑ",
+            "leadtime_to_ship": 3,
+            "logistic_class": "small",
+            "offer_additional_fields": [
+                {
+	                "code": "offervat",
+                    "type": "LIST",
+                    "value": "24"
+                },
+                {
+	                "code": "shippingvat",
+                    "type": "LIST",
+                    "value": "24"
+                }
+            ],
+            "price": 3.4,
+            "all_prices": [
+                {
+	                "price": 3.4,
+                    "unit_discount_price": null ,
+                    "unit_origin_price": 3.4
+                }
+            ],
+            "product_id": "13154148460203",
+            "product_id_type": "EAN",
+            "quantity": " 2503",
+            "shop_sku": " MAP846020",
+            "state_code": "11",
+            "update_delete": "update"
+        }
+    ]
+}
+03/09/2024 02:04:02 pm {
+  "import_id" : 9738322
+}
+03/09/2024 02:04:05 pm 
+03/09/2024 02:04:06 pm 
+		{
+			"offers": [
+        {
+	        "description": "ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑ" ,
+            "internal_description": "ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑ",
+            "leadtime_to_ship": 3,
+            "logistic_class": "small",
+            "offer_additional_fields": [
+                {
+	                "code": "offervat",
+                    "type": "LIST",
+                    "value": "24"
+                },
+                {
+	                "code": "shippingvat",
+                    "type": "LIST",
+                    "value": "24"
+                }
+            ],
+            "price": 3.4,
+            "all_prices": [
+                {
+	                "price": 3.4,
+                    "unit_discount_price": null ,
+                    "unit_origin_price": 3.4
+                }
+            ],
+            "product_id": "13154148460203",
+            "product_id_type": "EAN",
+            "quantity": " 2",
+            "shop_sku": " MAP846020",
+            "state_code": "11",
+            "update_delete": "update"
+        }
+    ]
+}
+03/09/2024 02:04:06 pm {
+  "import_id" : 9738323
+}
+03/09/2024 02:04:06 pm 
+03/09/2024 02:04:06 pm 
+		{
+			"offers": [
+        {
+	        "description": "ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑ" ,
+            "internal_description": "ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑ",
+            "leadtime_to_ship": 3,
+            "logistic_class": "small",
+            "offer_additional_fields": [
+                {
+	                "code": "offervat",
+                    "type": "LIST",
+                    "value": "24"
+                },
+                {
+	                "code": "shippingvat",
+                    "type": "LIST",
+                    "value": "24"
+                }
+            ],
+            "price": 3.4,
+            "all_prices": [
+                {
+	                "price": 3.4,
+                    "unit_discount_price": null ,
+                    "unit_origin_price": 3.4
+                }
+            ],
+            "product_id": "13154148460203",
+            "product_id_type": "EAN",
+            "quantity": " 2",
+            "shop_sku": " MAP846020",
+            "state_code": "11",
+            "update_delete": "update"
+        }
+    ]
+}
+03/09/2024 02:04:06 pm {
+  "import_id" : 9738323
+}
+03/09/2024 02:14:26 pm 
+03/09/2024 02:14:27 pm 
+		{
+			"offers": [
+        {
+	        "description": "ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑ" ,
+            "internal_description": "ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑ",
+            "leadtime_to_ship": 3,
+            "logistic_class": "small",
+            "offer_additional_fields": [
+                {
+	                "code": "offervat",
+                    "type": "LIST",
+                    "value": "24"
+                },
+                {
+	                "code": "shippingvat",
+                    "type": "LIST",
+                    "value": "24"
+                }
+            ],
+            "price": 3.4,
+            "all_prices": [
+                {
+	                "price": 3.4,
+                    "unit_discount_price": null ,
+                    "unit_origin_price": 3.4
+                }
+            ],
+            "product_id": "3154148460206",
+            "product_id_type": "EAN",
+            "quantity": " 2",
+            "shop_sku": " MAP846020",
+            "state_code": "11",
+            "update_delete": "update"
+        }
+    ]
+}
+03/09/2024 02:14:27 pm {
+  "import_id" : 9738418
+}
+03/09/2024 02:14:32 pm 
+03/09/2024 02:14:32 pm 
+		{
+			"offers": [
+        {
+	        "description": "ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑ" ,
+            "internal_description": "ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑ",
+            "leadtime_to_ship": 3,
+            "logistic_class": "small",
+            "offer_additional_fields": [
+                {
+	                "code": "offervat",
+                    "type": "LIST",
+                    "value": "24"
+                },
+                {
+	                "code": "shippingvat",
+                    "type": "LIST",
+                    "value": "24"
+                }
+            ],
+            "price": 3.4,
+            "all_prices": [
+                {
+	                "price": 3.4,
+                    "unit_discount_price": null ,
+                    "unit_origin_price": 3.4
+                }
+            ],
+            "product_id": "3154148460206",
+            "product_id_type": "EAN",
+            "quantity": " 2",
+            "shop_sku": " MAP846020",
+            "state_code": "11",
+            "update_delete": "update"
+        }
+    ]
+}
+03/09/2024 02:14:32 pm {
+  "import_id" : 9738419
+}
+03/09/2024 02:14:32 pm 
+03/09/2024 02:14:33 pm 
+		{
+			"offers": [
+        {
+	        "description": "ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑ" ,
+            "internal_description": "ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑ",
+            "leadtime_to_ship": 3,
+            "logistic_class": "small",
+            "offer_additional_fields": [
+                {
+	                "code": "offervat",
+                    "type": "LIST",
+                    "value": "24"
+                },
+                {
+	                "code": "shippingvat",
+                    "type": "LIST",
+                    "value": "24"
+                }
+            ],
+            "price": 3.4,
+            "all_prices": [
+                {
+	                "price": 3.4,
+                    "unit_discount_price": null ,
+                    "unit_origin_price": 3.4
+                }
+            ],
+            "product_id": "3154148460206",
+            "product_id_type": "EAN",
+            "quantity": " 2",
+            "shop_sku": " MAP846020",
+            "state_code": "11",
+            "update_delete": "update"
+        }
+    ]
+}
+03/09/2024 02:14:33 pm {
+  "import_id" : 9738420
+}
+03/09/2024 06:28:26 pm 
+03/09/2024 06:28:26 pm 
+		{
+			"offers": [
+        {
+	        "description": "ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑ" ,
+            "internal_description": "ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑ",
+            "leadtime_to_ship": 3,
+            "logistic_class": "small",
+            "offer_additional_fields": [
+                {
+	                "code": "offervat",
+                    "type": "LIST",
+                    "value": "24"
+                },
+                {
+	                "code": "shippingvat",
+                    "type": "LIST",
+                    "value": "24"
+                }
+            ],
+            "price": 3.4,
+            "all_prices": [
+                {
+	                "price": 3.4,
+                    "unit_discount_price": null ,
+                    "unit_origin_price": 3.4
+                }
+            ],
+            "product_id": "3154148460206",
+            "product_id_type": "EAN",
+            "quantity": " 2",
+            "shop_sku": " MAP846020",
+            "state_code": "11",
+            "update_delete": "update"
+        }
+    ]
+}
+03/09/2024 06:28:26 pm {
+  "import_id" : 9739058
+}
+03/09/2024 06:28:26 pm 
+03/09/2024 06:28:26 pm 
+		{
+			"offers": [
+        {
+	        "description": "ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑ" ,
+            "internal_description": "ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑ",
+            "leadtime_to_ship": 3,
+            "logistic_class": "small",
+            "offer_additional_fields": [
+                {
+	                "code": "offervat",
+                    "type": "LIST",
+                    "value": "24"
+                },
+                {
+	                "code": "shippingvat",
+                    "type": "LIST",
+                    "value": "24"
+                }
+            ],
+            "price": 3.4,
+            "all_prices": [
+                {
+	                "price": 3.4,
+                    "unit_discount_price": null ,
+                    "unit_origin_price": 3.4
+                }
+            ],
+            "product_id": "3154148460206",
+            "product_id_type": "EAN",
+            "quantity": " 2",
+            "shop_sku": " MAP846020",
+            "state_code": "11",
+            "update_delete": "update"
+        }
+    ]
+}
+03/09/2024 06:28:26 pm {
+  "import_id" : 9739058
+}
+03/09/2024 07:36:06 pm {"offers":{"allow_quote_requests":false,"description":"\u039c\u0391\u03a1\u039a\u0391\u0394\u039f\u03a1\u039f\u0399 COLOR' PEPS MAXI X12 \u03a3\u0395 \u03a7\u0391\u03a1\u03a4\u0399\u039d\u0397 \u03a3\u03a5\u03a3\u039a\u0395\u03a5\u0391\u03a3\u0399\u0391","internal_description":"\u039c\u0391\u03a1\u039a\u0391\u0394\u039f\u03a1\u039f\u0399 COLOR' PEPS MAXI X12 \u03a3\u0395 \u03a7\u0391\u03a1\u03a4\u0399\u039d\u0397 \u03a3\u03a5\u03a3\u039a\u0395\u03a5\u0391\u03a3\u0399\u0391","leadtime_to_ship":3,"logistic_class":"small","offer_additional_fields":[{"code":"offervat","type":"LIST","value":"24"},{"code":"shippingvat","type":"LIST","value":"24"}],"price":"3.4","all_prices":{"channel_code":null,"discount_end_date":null,"discount_start_date":null,"price":"3.4","unit_discount_price":"","unit_origin_price":"3.4","volume_prices":{"price":"3.4","quantity_threshold":1,"unit_discount_price":null,"unit_origin_price":"3.4"}},"product_id":"3154148460206","product_id_type":"EAN","quantity":"2","shop_sku":"MAP846020","state_code":"11","update_delete":"update"}}
+03/09/2024 07:36:06 pm {
+  "message" : "Error with field offers. Please check the field datatype.",
+  "status" : 400
+}
+03/09/2024 07:36:06 pm {"offers":{"allow_quote_requests":false,"description":"\u039c\u0391\u03a1\u039a\u0391\u0394\u039f\u03a1\u039f\u0399 COLOR' PEPS MAXI X12 \u03a3\u0395 \u03a7\u0391\u03a1\u03a4\u0399\u039d\u0397 \u03a3\u03a5\u03a3\u039a\u0395\u03a5\u0391\u03a3\u0399\u0391","internal_description":"\u039c\u0391\u03a1\u039a\u0391\u0394\u039f\u03a1\u039f\u0399 COLOR' PEPS MAXI X12 \u03a3\u0395 \u03a7\u0391\u03a1\u03a4\u0399\u039d\u0397 \u03a3\u03a5\u03a3\u039a\u0395\u03a5\u0391\u03a3\u0399\u0391","leadtime_to_ship":3,"logistic_class":"small","offer_additional_fields":[{"code":"offervat","type":"LIST","value":"24"},{"code":"shippingvat","type":"LIST","value":"24"}],"price":"3.4","all_prices":{"channel_code":null,"discount_end_date":null,"discount_start_date":null,"price":"3.4","unit_discount_price":"","unit_origin_price":"3.4","volume_prices":{"price":"3.4","quantity_threshold":1,"unit_discount_price":null,"unit_origin_price":"3.4"}},"product_id":"3154148460206","product_id_type":"EAN","quantity":"2","shop_sku":"MAP846020","state_code":"11","update_delete":"update"}}
+03/09/2024 07:36:06 pm {
+  "message" : "Error with field offers. Please check the field datatype.",
+  "status" : 400
+}
+03/09/2024 07:47:10 pm {"offers":[{"allow_quote_requests":false,"description":"\u039c\u0391\u03a1\u039a\u0391\u0394\u039f\u03a1\u039f\u0399 COLOR' PEPS MAXI X12 \u03a3\u0395 \u03a7\u0391\u03a1\u03a4\u0399\u039d\u0397 \u03a3\u03a5\u03a3\u039a\u0395\u03a5\u0391\u03a3\u0399\u0391","internal_description":"\u039c\u0391\u03a1\u039a\u0391\u0394\u039f\u03a1\u039f\u0399 COLOR' PEPS MAXI X12 \u03a3\u0395 \u03a7\u0391\u03a1\u03a4\u0399\u039d\u0397 \u03a3\u03a5\u03a3\u039a\u0395\u03a5\u0391\u03a3\u0399\u0391","leadtime_to_ship":3,"logistic_class":"small","offer_additional_fields":[{"code":"offervat","type":"LIST","value":"24"},{"code":"shippingvat","type":"LIST","value":"24"}],"price":3,"all_prices":{"channel_code":null,"discount_end_date":null,"discount_start_date":null,"price":3,"unit_discount_price":null,"unit_origin_price":3,"volume_prices":{"price":3,"quantity_threshold":1,"unit_discount_price":null,"unit_origin_price":3}},"product_id":"3154148460206","product_id_type":"EAN","quantity":"2","shop_sku":"MAP846020","state_code":"11","update_delete":"update"}]}
+03/09/2024 07:47:10 pm {
+  "message" : "Error with field offers.all_prices. Please check the field datatype.",
+  "status" : 400
+}
+03/09/2024 07:47:10 pm {"offers":[{"allow_quote_requests":false,"description":"\u039c\u0391\u03a1\u039a\u0391\u0394\u039f\u03a1\u039f\u0399 COLOR' PEPS MAXI X12 \u03a3\u0395 \u03a7\u0391\u03a1\u03a4\u0399\u039d\u0397 \u03a3\u03a5\u03a3\u039a\u0395\u03a5\u0391\u03a3\u0399\u0391","internal_description":"\u039c\u0391\u03a1\u039a\u0391\u0394\u039f\u03a1\u039f\u0399 COLOR' PEPS MAXI X12 \u03a3\u0395 \u03a7\u0391\u03a1\u03a4\u0399\u039d\u0397 \u03a3\u03a5\u03a3\u039a\u0395\u03a5\u0391\u03a3\u0399\u0391","leadtime_to_ship":3,"logistic_class":"small","offer_additional_fields":[{"code":"offervat","type":"LIST","value":"24"},{"code":"shippingvat","type":"LIST","value":"24"}],"price":3,"all_prices":{"channel_code":null,"discount_end_date":null,"discount_start_date":null,"price":3,"unit_discount_price":null,"unit_origin_price":3,"volume_prices":{"price":3,"quantity_threshold":1,"unit_discount_price":null,"unit_origin_price":3}},"product_id":"3154148460206","product_id_type":"EAN","quantity":"2","shop_sku":"MAP846020","state_code":"11","update_delete":"update"}]}
+03/09/2024 07:47:10 pm {
+  "message" : "Error with field offers.all_prices. Please check the field datatype.",
+  "status" : 400
+}
+03/09/2024 07:50:52 pm {"offers":[{"allow_quote_requests":false,"description":"\u039c\u0391\u03a1\u039a\u0391\u0394\u039f\u03a1\u039f\u0399 COLOR' PEPS MAXI X12 \u03a3\u0395 \u03a7\u0391\u03a1\u03a4\u0399\u039d\u0397 \u03a3\u03a5\u03a3\u039a\u0395\u03a5\u0391\u03a3\u0399\u0391","internal_description":"\u039c\u0391\u03a1\u039a\u0391\u0394\u039f\u03a1\u039f\u0399 COLOR' PEPS MAXI X12 \u03a3\u0395 \u03a7\u0391\u03a1\u03a4\u0399\u039d\u0397 \u03a3\u03a5\u03a3\u039a\u0395\u03a5\u0391\u03a3\u0399\u0391","leadtime_to_ship":3,"logistic_class":"small","offer_additional_fields":[{"code":"offervat","type":"LIST","value":"24"},{"code":"shippingvat","type":"LIST","value":"24"}],"price":3,"all_prices":[{"channel_code":null,"discount_end_date":null,"discount_start_date":null,"price":3,"unit_discount_price":null,"unit_origin_price":3}],"product_id":"3154148460206","product_id_type":"EAN","quantity":"2","shop_sku":"MAP846020","state_code":"11","update_delete":"update"}]}
+03/09/2024 07:50:52 pm {
+  "import_id" : 9739217
+}
+03/09/2024 07:50:52 pm {"offers":[{"allow_quote_requests":false,"description":"\u039c\u0391\u03a1\u039a\u0391\u0394\u039f\u03a1\u039f\u0399 COLOR' PEPS MAXI X12 \u03a3\u0395 \u03a7\u0391\u03a1\u03a4\u0399\u039d\u0397 \u03a3\u03a5\u03a3\u039a\u0395\u03a5\u0391\u03a3\u0399\u0391","internal_description":"\u039c\u0391\u03a1\u039a\u0391\u0394\u039f\u03a1\u039f\u0399 COLOR' PEPS MAXI X12 \u03a3\u0395 \u03a7\u0391\u03a1\u03a4\u0399\u039d\u0397 \u03a3\u03a5\u03a3\u039a\u0395\u03a5\u0391\u03a3\u0399\u0391","leadtime_to_ship":3,"logistic_class":"small","offer_additional_fields":[{"code":"offervat","type":"LIST","value":"24"},{"code":"shippingvat","type":"LIST","value":"24"}],"price":3,"all_prices":[{"channel_code":null,"discount_end_date":null,"discount_start_date":null,"price":3,"unit_discount_price":null,"unit_origin_price":3}],"product_id":"3154148460206","product_id_type":"EAN","quantity":"2","shop_sku":"MAP846020","state_code":"11","update_delete":"update"}]}
+03/09/2024 07:50:52 pm {
+  "import_id" : 9739217
+}
+03/09/2024 07:51:55 pm {"offers":[{"allow_quote_requests":false,"description":"\u039c\u0391\u03a1\u039a\u0391\u0394\u039f\u03a1\u039f\u0399 COLOR' PEPS MAXI X12 \u03a3\u0395 \u03a7\u0391\u03a1\u03a4\u0399\u039d\u0397 \u03a3\u03a5\u03a3\u039a\u0395\u03a5\u0391\u03a3\u0399\u0391","internal_description":"\u039c\u0391\u03a1\u039a\u0391\u0394\u039f\u03a1\u039f\u0399 COLOR' PEPS MAXI X12 \u03a3\u0395 \u03a7\u0391\u03a1\u03a4\u0399\u039d\u0397 \u03a3\u03a5\u03a3\u039a\u0395\u03a5\u0391\u03a3\u0399\u0391","leadtime_to_ship":3,"logistic_class":"small","offer_additional_fields":[{"code":"offervat","type":"LIST","value":"24"},{"code":"shippingvat","type":"LIST","value":"24"}],"price":3,"all_prices":[{"channel_code":null,"discount_end_date":null,"discount_start_date":null,"price":3,"unit_discount_price":null,"unit_origin_price":3}],"product_id":"3154148460206","product_id_type":"EAN","quantity":"2","shop_sku":"MAP846020","state_code":"11","update_delete":"update"}]}
+03/09/2024 07:51:55 pm {
+  "import_id" : 9739219
+}
+03/09/2024 07:51:55 pm {"offers":[{"allow_quote_requests":false,"description":"\u039c\u0391\u03a1\u039a\u0391\u0394\u039f\u03a1\u039f\u0399 COLOR' PEPS MAXI X12 \u03a3\u0395 \u03a7\u0391\u03a1\u03a4\u0399\u039d\u0397 \u03a3\u03a5\u03a3\u039a\u0395\u03a5\u0391\u03a3\u0399\u0391","internal_description":"\u039c\u0391\u03a1\u039a\u0391\u0394\u039f\u03a1\u039f\u0399 COLOR' PEPS MAXI X12 \u03a3\u0395 \u03a7\u0391\u03a1\u03a4\u0399\u039d\u0397 \u03a3\u03a5\u03a3\u039a\u0395\u03a5\u0391\u03a3\u0399\u0391","leadtime_to_ship":3,"logistic_class":"small","offer_additional_fields":[{"code":"offervat","type":"LIST","value":"24"},{"code":"shippingvat","type":"LIST","value":"24"}],"price":3,"all_prices":[{"channel_code":null,"discount_end_date":null,"discount_start_date":null,"price":3,"unit_discount_price":null,"unit_origin_price":3}],"product_id":"3154148460206","product_id_type":"EAN","quantity":"2","shop_sku":"MAP846020","state_code":"11","update_delete":"update"}]}
+03/09/2024 07:51:55 pm {
+  "import_id" : 9739219
+}
+03/09/2024 07:58:57 pm {"offers":[{"allow_quote_requests":false,"description":"ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑ","internal_description":"ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑ","leadtime_to_ship":3,"logistic_class":"small","offer_additional_fields":[{"code":"offervat","type":"LIST","value":"24"},{"code":"shippingvat","type":"LIST","value":"24"}],"price":"3.41","all_prices":[{"channel_code":null,"discount_end_date":null,"discount_start_date":null,"price":"3.41","unit_discount_price":null,"unit_origin_price":"3.41"}],"product_id":"3154148460206","product_id_type":"EAN","quantity":"3","shop_sku":"MAP846020","state_code":"11","update_delete":"update"}]}
+03/09/2024 07:58:57 pm {
+  "import_id" : 9739221
+}
+03/09/2024 07:58:58 pm {"offers":[{"allow_quote_requests":false,"description":"ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑ","internal_description":"ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑ","leadtime_to_ship":3,"logistic_class":"small","offer_additional_fields":[{"code":"offervat","type":"LIST","value":"24"},{"code":"shippingvat","type":"LIST","value":"24"}],"price":"3.41","all_prices":[{"channel_code":null,"discount_end_date":null,"discount_start_date":null,"price":"3.41","unit_discount_price":null,"unit_origin_price":"3.41"}],"product_id":"3154148460206","product_id_type":"EAN","quantity":"3","shop_sku":"MAP846020","state_code":"11","update_delete":"update"}]}
+03/09/2024 07:58:58 pm {
+  "import_id" : 9739221
+}
+03/09/2024 08:42:23 pm {"offers":[{"allow_quote_requests":false,"description":"ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑ","internal_description":"ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑ","leadtime_to_ship":3,"logistic_class":"small","offer_additional_fields":[{"code":"offervat","type":"LIST","value":"24"},{"code":"shippingvat","type":"LIST","value":"24"}],"price":"3.44","all_prices":[{"channel_code":null,"discount_end_date":null,"discount_start_date":null,"price":"3.44","unit_discount_price":null,"unit_origin_price":"3.44"}],"product_id":"3154148460206","product_id_type":"EAN","quantity":"3","shop_sku":"MAP846020","state_code":"11","update_delete":"update"}]}
+03/09/2024 08:42:23 pm {
+  "import_id" : 9739380
+}
+03/09/2024 09:13:07 pm {"0":"offers","offers":[{"allow_quote_requests":false,"description":"ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑsd","internal_description":"ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑsd","leadtime_to_ship":3,"logistic_class":"small","offer_additional_fields":[{"code":"offervat","type":"LIST","value":"24"},{"code":"shippingvat","type":"LIST","value":"24"}],"price":"3.33","all_prices":[{"channel_code":null,"discount_end_date":null,"discount_start_date":null,"price":"3.33","unit_discount_price":null,"unit_origin_price":"3.33"}],"product_id":"3154148460206","product_id_type":"EAN","quantity":"3","shop_sku":"MAP846020","state_code":"11","update_delete":"update"}]}
+03/09/2024 09:13:07 pm {
+  "import_id" : 9739485
+}
+03/09/2024 09:14:23 pm {"offers":[{"allow_quote_requests":false,"description":"ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑsd","internal_description":"ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑsd","leadtime_to_ship":3,"logistic_class":"small","offer_additional_fields":[{"code":"offervat","type":"LIST","value":"24"},{"code":"shippingvat","type":"LIST","value":"24"}],"price":"3.44","all_prices":[{"channel_code":null,"discount_end_date":null,"discount_start_date":null,"price":"3.44","unit_discount_price":null,"unit_origin_price":"3.44"}],"product_id":"3154148460206","product_id_type":"EAN","quantity":"3","shop_sku":"MAP846020","state_code":"11","update_delete":"update"}]}
+03/09/2024 09:14:23 pm {
+  "import_id" : 9739486
+}
+04/09/2024 05:18:58 pm 
+04/09/2024 05:18:58 pm {
+  "message" : "Your request body is not a valid JSON String",
+  "status" : 400
+}
+04/09/2024 05:22:24 pm "{\"offers\":[{\"allow_quote_requests\":false,\"description\":\"\u039c\u0391\u03a1\u039a\u0391\u0394\u039f\u03a1\u039f\u0399 COLOR' PEPS MAXI X12 \u03a3\u0395 \u03a7\u0391\u03a1\u03a4\u0399\u039d\u0397 \u03a3\u03a5\u03a3\u039a\u0395\u03a5\u0391\u03a3\u0399\u0391sd\",\"internal_description\":\"\u039c\u0391\u03a1\u039a\u0391\u0394\u039f\u03a1\u039f\u0399 COLOR' PEPS MAXI X12 \u03a3\u0395 \u03a7\u0391\u03a1\u03a4\u0399\u039d\u0397 \u03a3\u03a5\u03a3\u039a\u0395\u03a5\u0391\u03a3\u0399\u0391sd\",\"leadtime_to_ship\":3,\"logistic_class\":\"small\",\"offer_additional_fields\":[{\"code\":\"offervat\",\"type\":\"LIST\",\"value\":\"24\"},{\"code\":\"shippingvat\",\"type\":\"LIST\",\"value\":\"24\"}],\"price\":\"3.44\",\"all_prices\":[{\"channel_code\":null,\"discount_end_date\":null,\"discount_start_date\":null,\"price\":\"3.44\",\"unit_discount_price\":null,\"unit_origin_price\":\"3.44\"}],\"product_id\":\"3154148460206\",\"product_id_type\":\"EAN\",\"quantity\":\"1\",\"shop_sku\":\"MAP846020\",\"state_code\":\"11\",\"update_delete\":\"update\"}]}"
+04/09/2024 05:22:24 pm {
+  "message" : "Your request body is not a valid JSON String",
+  "status" : 400
+}
+04/09/2024 05:25:46 pm {"offers":[{"allow_quote_requests":false,"description":"ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑsd","internal_description":"ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑsd","leadtime_to_ship":3,"logistic_class":"small","offer_additional_fields":[{"code":"offervat","type":"LIST","value":"24"},{"code":"shippingvat","type":"LIST","value":"24"}],"price":"3.44","all_prices":[{"channel_code":null,"discount_end_date":null,"discount_start_date":null,"price":"3.44","unit_discount_price":null,"unit_origin_price":"3.44"}],"product_id":"3154148460206","product_id_type":"EAN","quantity":"1","shop_sku":"MAP846020","state_code":"11","update_delete":"update"}]}
+04/09/2024 05:25:46 pm {
+  "import_id" : 9742848
+}
+04/09/2024 05:36:20 pm {"offers":[{"allow_quote_requests":false,"description":"ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑsd","internal_description":"ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑsd","leadtime_to_ship":3,"logistic_class":"small","offer_additional_fields":[{"code":"offervat","type":"LIST","value":"24"},{"code":"shippingvat","type":"LIST","value":"24"}],"price":"3.44","all_prices":[{"channel_code":null,"discount_end_date":null,"discount_start_date":null,"price":"3.44","unit_discount_price":null,"unit_origin_price":"3.44"}],"product_id":"3154148460206","product_id_type":"EAN","quantity":"1","shop_sku":"MAP846020","state_code":"11","update_delete":"update"}]}
+04/09/2024 05:36:20 pm {
+  "import_id" : 9742852
+}
+04/09/2024 05:37:16 pm {"offers":[{"allow_quote_requests":false,"description":"ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑsd","internal_description":"ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑsd","leadtime_to_ship":3,"logistic_class":"small","offer_additional_fields":[{"code":"offervat","type":"LIST","value":"24"},{"code":"shippingvat","type":"LIST","value":"24"}],"price":"3.44","all_prices":[{"channel_code":null,"discount_end_date":null,"discount_start_date":null,"price":"3.44","unit_discount_price":null,"unit_origin_price":"3.44"}],"product_id":"3154148460206","product_id_type":"EAN","quantity":"2","shop_sku":"MAP846020","state_code":"11","update_delete":"update"}]}
+04/09/2024 05:37:16 pm {
+  "import_id" : 9742853
+}
+04/09/2024 05:41:13 pm {"offers":[{"allow_quote_requests":false,"description":"ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑsd","internal_description":"ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑsd","leadtime_to_ship":3,"logistic_class":"small","offer_additional_fields":[{"code":"offervat","type":"LIST","value":"24"},{"code":"shippingvat","type":"LIST","value":"24"}],"price":"3.44","all_prices":[{"channel_code":null,"discount_end_date":null,"discount_start_date":null,"price":"3.44","unit_discount_price":null,"unit_origin_price":"3.44"}],"product_id":"3154148460206","product_id_type":"EAN","quantity":"1","shop_sku":"MAP846020","state_code":"11","update_delete":"update"}]}
+04/09/2024 05:41:13 pm {
+  "import_id" : 9742856
+}
+04/09/2024 05:41:54 pm {"offers":[{"allow_quote_requests":false,"description":"ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑsd","internal_description":"ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑsd","leadtime_to_ship":3,"logistic_class":"small","offer_additional_fields":[{"code":"offervat","type":"LIST","value":"24"},{"code":"shippingvat","type":"LIST","value":"24"}],"price":"3.44","all_prices":[{"channel_code":null,"discount_end_date":null,"discount_start_date":null,"price":"3.44","unit_discount_price":null,"unit_origin_price":"3.44"}],"product_id":"3154148460206","product_id_type":"EAN","quantity":"2","shop_sku":"MAP846020","state_code":"11","update_delete":"update"}]}
+04/09/2024 05:41:54 pm {
+  "import_id" : 9742857
+}
+04/09/2024 05:48:30 pm {"offers":[{"allow_quote_requests":false,"description":"ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑsd","internal_description":"ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑsd","leadtime_to_ship":3,"logistic_class":"small","offer_additional_fields":[{"code":"offervat","type":"LIST","value":"24"},{"code":"shippingvat","type":"LIST","value":"24"}],"price":"3.44","all_prices":[{"channel_code":null,"discount_end_date":null,"discount_start_date":null,"price":"3.44","unit_discount_price":null,"unit_origin_price":"3.44"}],"product_id":"3154148460206","product_id_type":"EAN","quantity":"1","shop_sku":"MAP846020","state_code":"11","update_delete":"update"}]}
+04/09/2024 05:48:30 pm {
+  "import_id" : 9742860
+}
+04/09/2024 05:51:00 pm {"offers":[{"allow_quote_requests":false,"description":"ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑsd","internal_description":"ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑsd","leadtime_to_ship":3,"logistic_class":"small","offer_additional_fields":[{"code":"offervat","type":"LIST","value":"24"},{"code":"shippingvat","type":"LIST","value":"24"}],"price":"3.44","all_prices":[{"channel_code":null,"discount_end_date":null,"discount_start_date":null,"price":"3.44","unit_discount_price":null,"unit_origin_price":"3.44"}],"product_id":"3154148460206","product_id_type":"EAN","quantity":"2","shop_sku":"MAP846020","state_code":"11","update_delete":"update"}]}
+04/09/2024 05:51:00 pm {
+  "import_id" : 9742863
+}
+04/09/2024 05:51:55 pm {"offers":[{"allow_quote_requests":false,"description":"ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑsd","internal_description":"ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑsd","leadtime_to_ship":3,"logistic_class":"small","offer_additional_fields":[{"code":"offervat","type":"LIST","value":"24"},{"code":"shippingvat","type":"LIST","value":"24"}],"price":"3.44","all_prices":[{"channel_code":null,"discount_end_date":null,"discount_start_date":null,"price":"3.44","unit_discount_price":null,"unit_origin_price":"3.44"}],"product_id":"3154148460206","product_id_type":"EAN","quantity":"1","shop_sku":"MAP846020","state_code":"11","update_delete":"update"}]}
+04/09/2024 05:51:55 pm {
+  "import_id" : 9742864
+}
+04/09/2024 05:55:35 pm {"offers":[{"allow_quote_requests":false,"description":"ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑsd","internal_description":"ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑsd","leadtime_to_ship":3,"logistic_class":"small","offer_additional_fields":[{"code":"offervat","type":"LIST","value":"24"},{"code":"shippingvat","type":"LIST","value":"24"}],"price":"3.44","all_prices":[{"channel_code":null,"discount_end_date":null,"discount_start_date":null,"price":"3.44","unit_discount_price":null,"unit_origin_price":"3.44"}],"product_id":"3154148460206","product_id_type":"EAN","quantity":"2","shop_sku":"MAP846020","state_code":"11","update_delete":"update"},{"allow_quote_requests":false,"description":"Carioca Joy 12 Μαρκαδόροι Λεπτοί 2,6mm","internal_description":"Carioca Joy 12 Μαρκαδόροι Λεπτοί 2,6mm","leadtime_to_ship":3,"logistic_class":"small","offer_additional_fields":[{"code":"offervat","type":"LIST","value":"24"},{"code":"shippingvat","type":"LIST","value":"24"}],"price":"1.69","all_prices":[{"channel_code":null,"discount_end_date":null,"discount_start_date":null,"price":"1.69","unit_discount_price":"1.69","unit_origin_price":"1.89"}],"product_id":"8003511406141","product_id_type":"EAN","quantity":"23","shop_sku":"133012000","state_code":"11","update_delete":"update"}]}
+04/09/2024 05:55:35 pm {
+  "message" : "Conflicting value for 'offers[1]'. Field 'price' supplied with value '1.69', whereas field 'prices[channel_code=null].unit_origin_price' is also supplied with value '1.89'.",
+  "status" : 400
+}
+04/09/2024 06:04:11 pm {"offers":[{"allow_quote_requests":false,"description":"ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑsd","internal_description":"ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑsd","leadtime_to_ship":3,"logistic_class":"small","offer_additional_fields":[{"code":"offervat","type":"LIST","value":"24"},{"code":"shippingvat","type":"LIST","value":"24"}],"price":"3.44","all_prices":[{"channel_code":null,"discount_end_date":null,"discount_start_date":null,"price":"3.44","unit_discount_price":null,"unit_origin_price":"3.44"}],"product_id":"3154148460206","product_id_type":"EAN","quantity":"1","shop_sku":"MAP846020","state_code":"11","update_delete":"update"},{"allow_quote_requests":false,"description":"Carioca Joy 12 Μαρκαδόροι Λεπτοί 2,6mm","internal_description":"Carioca Joy 12 Μαρκαδόροι Λεπτοί 2,6mm","leadtime_to_ship":3,"logistic_class":"small","offer_additional_fields":[{"code":"offervat","type":"LIST","value":"24"},{"code":"shippingvat","type":"LIST","value":"24"}],"price":"1.89","all_prices":[{"channel_code":null,"discount_end_date":null,"discount_start_date":null,"price":"1.69","unit_discount_price":"1.69","unit_origin_price":"1.89"}],"product_id":"8003511406141","product_id_type":"EAN","quantity":"21","shop_sku":"133012000","state_code":"11","update_delete":"update"}]}
+04/09/2024 06:04:11 pm {
+  "import_id" : 9742895
+}
+04/09/2024 06:10:34 pm {"offers":[{"allow_quote_requests":false,"description":"ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑsd","internal_description":"ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑsd","leadtime_to_ship":3,"logistic_class":"small","offer_additional_fields":[{"code":"offervat","type":"LIST","value":"24"},{"code":"shippingvat","type":"LIST","value":"24"}],"price":"3.44","all_prices":[{"channel_code":null,"discount_end_date":null,"discount_start_date":null,"price":"3.44","unit_discount_price":null,"unit_origin_price":"3.44"}],"product_id":"3154148460206","product_id_type":"EAN","quantity":"2","shop_sku":"MAP846020","state_code":"11","update_delete":"update"},{"allow_quote_requests":false,"description":"Carioca Joy 12 Μαρκαδόροι Λεπτοί 2,6mm","internal_description":"Carioca Joy 12 Μαρκαδόροι Λεπτοί 2,6mm","leadtime_to_ship":3,"logistic_class":"small","offer_additional_fields":[{"code":"offervat","type":"LIST","value":"24"},{"code":"shippingvat","type":"LIST","value":"24"}],"price":"1.89","all_prices":[{"channel_code":null,"discount_end_date":null,"discount_start_date":null,"price":"1.69","unit_discount_price":"1.69","unit_origin_price":"1.89"}],"product_id":"8003511406141","product_id_type":"EAN","quantity":"23","shop_sku":"133012000","state_code":"11","update_delete":"update"}]}
+04/09/2024 06:10:34 pm {
+  "import_id" : 9742955
+}
+05/09/2024 09:00:23 pm {"acceptance_decision_date":"2024-09-05T08:40:21Z","can_cancel":false,"can_shop_ship":true,"channel":{"code":"GR","label":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1"},"commercial_id":"D500869321","created_date":"2024-09-05T00:08:44Z","currency_iso_code":"EUR","customer":{"billing_address":{"city":"\u039a\u0395\u03a1\u0391\u03a4\u03a3\u0399\u039d\u0399  GREECE","company":null,"company_2":null,"country":"GR","country_iso_code":null,"firstname":"\u039c\u0399\u03a7\u0391\u0397\u039b","lastname":"\u039c\u0391\u03a5\u03a1\u0399\u0394\u039f\u0393\u039b\u039f\u03a5","phone":"6946736465","state":null,"street_1":"\u039a\u0399\u03a3\u03a3\u0391\u0392\u039f\u03a5 17","street_2":null,"zip_code":"18758"},"civility":null,"customer_id":"pbc1355503262","firstname":"\u039c\u03b9\u03c7\u03b1\u03ae\u03bb","lastname":"\u039c\u03b1\u03c5\u03c1\u03b9\u03b4\u03cc\u03b3\u03bb\u03bf\u03c5","locale":null,"shipping_address":{"additional_info":null,"city":"\u039a\u0395\u03a1\u0391\u03a4\u03a3\u0399\u039d\u0399  GREECE","company":null,"company_2":null,"country":"GR","country_iso_code":null,"firstname":"\u039c\u0399\u03a7\u0391\u0397\u039b","lastname":"\u039c\u0391\u03a5\u03a1\u0399\u0394\u039f\u0393\u039b\u039f\u03a5","phone":"6946736465","state":null,"street_1":"\u039a\u0399\u03a3\u03a3\u0391\u0392\u039f\u03a5 17","street_2":null,"zip_code":"18758"}},"customer_debited_date":"2024-09-05T08:41:00.816Z","customer_directly_pays_seller":false,"customer_notification_email":"rnjq8zc9j6d.hinkpfk32@notification.mirakl.net","delivery_date":null,"fulfillment":{"center":{"code":"DEFAULT"}},"fully_refunded":false,"has_customer_message":false,"has_incident":false,"has_invoice":false,"last_updated_date":"2024-09-05T08:41:01Z","leadtime_to_ship":5,"order_additional_fields":[{"code":"billingtype","type":"LIST","value":"receipt"},{"code":"payment-token","type":"STRING","value":"9cf77534-8349-4b80-a2b6-ee61fe8dbbfa"}],"order_id":"D500869321-B","order_lines":[{"can_refund":true,"cancelations":[],"category_code":"sxolika-tetradia","category_label":"\u03a4\u03b5\u03c4\u03c1\u03b1\u03b4\u03af\u03b1","commission_fee":0.45,"commission_rate_vat":24,"commission_taxes":[{"amount":0.11,"code":"TAXDEFAULT","rate":24}],"commission_vat":0.11,"created_date":"2024-09-05T00:08:44Z","debited_date":"2024-09-05T08:41:00Z","description":null,"fees":[],"last_updated_date":"2024-09-05T08:41:00Z","offer_id":25728663,"offer_sku":"341-43400","offer_state_code":"11","order_line_additional_fields":[],"order_line_id":"D500869321-B-1","order_line_index":1,"order_line_state":"SHIPPING","order_line_state_reason_code":null,"order_line_state_reason_label":null,"price":0.56,"price_additional_info":null,"price_amount_breakdown":{"parts":[{"amount":0.56,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"price_unit":0.56,"product_medias":[{"media_url":"\/media\/product\/image\/3bea26e5-e74b-401e-95ad-d046e7391d13","mime_type":"JPG","type":"LARGE"},{"media_url":"\/media\/product\/image\/9033fa50-7f34-4f41-8783-ce03244afcb4","mime_type":"JPG","type":"MEDIUM"},{"media_url":"\/media\/product\/image\/b259f96d-8711-4095-9a04-826cd92a3e29","mime_type":"JPG","type":"SMALL"}],"product_sku":"sku9806002pp","product_title":"\u03a4\u03b5\u03c4\u03c1\u03ac\u03b4\u03b9\u03bf MLS B5 Cars (1 \u03a4\u03b5\u03bc\u03ac\u03c7\u03b9\u03bf)","promotions":[],"quantity":1,"received_date":null,"refunds":[],"shipped_date":null,"shipping_from":{"address":{"city":null,"country_iso_code":"GRC","state":null,"street_1":null,"street_2":null,"zip_code":null},"warehouse":null},"shipping_price":3.15,"shipping_price_additional_unit":null,"shipping_price_amount_breakdown":{"parts":[{"amount":3.15,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"shipping_price_unit":null,"shipping_taxes":[{"amount":0.75,"amount_breakdown":{"parts":[{"amount":0.75,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"code":"VAT","tax_calculation_rule":"NONE"}],"taxes":[{"amount":0.13,"amount_breakdown":{"parts":[{"amount":0.13,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"code":"VAT","tax_calculation_rule":"NONE"}],"total_commission":0.56,"total_price":3.71}],"order_refunds":null,"order_state":"SHIPPING","order_state_reason_code":null,"order_state_reason_label":null,"order_tax_mode":"TAX_EXCLUDED","order_taxes":null,"paymentType":"CREDIT_CARD","payment_type":"CREDIT_CARD","payment_workflow":"PAY_ON_ACCEPTANCE","price":0.56,"promotions":{"applied_promotions":[],"total_deduced_amount":0},"quote_id":null,"shipping_carrier_code":null,"shipping_carrier_standard_code":null,"shipping_company":null,"shipping_deadline":"2024-09-10T20:59:59.999Z","shipping_price":3.15,"shipping_pudo_id":null,"shipping_tracking":null,"shipping_tracking_url":null,"shipping_type_code":"standard","shipping_type_label":"\u039a\u03b1\u03bd\u03bf\u03bd\u03b9\u03ba\u03ae \u03a0\u03b1\u03c1\u03ac\u03b4\u03bf\u03c3\u03b7","shipping_type_standard_code":"CU_ADD-STD","shipping_zone_code":"attiki-thessaloniki","shipping_zone_label":"\u0391\u03c4\u03c4\u03b9\u03ba\u03ae","total_commission":0.56,"total_price":3.71}
+05/09/2024 09:00:23 pm {"billing_address":{"city":"\u039a\u0395\u03a1\u0391\u03a4\u03a3\u0399\u039d\u0399  GREECE","company":null,"company_2":null,"country":"GR","country_iso_code":null,"firstname":"\u039c\u0399\u03a7\u0391\u0397\u039b","lastname":"\u039c\u0391\u03a5\u03a1\u0399\u0394\u039f\u0393\u039b\u039f\u03a5","phone":"6946736465","state":null,"street_1":"\u039a\u0399\u03a3\u03a3\u0391\u0392\u039f\u03a5 17","street_2":null,"zip_code":"18758"},"civility":null,"customer_id":"pbc1355503262","firstname":"\u039c\u03b9\u03c7\u03b1\u03ae\u03bb","lastname":"\u039c\u03b1\u03c5\u03c1\u03b9\u03b4\u03cc\u03b3\u03bb\u03bf\u03c5","locale":null,"shipping_address":{"additional_info":null,"city":"\u039a\u0395\u03a1\u0391\u03a4\u03a3\u0399\u039d\u0399  GREECE","company":null,"company_2":null,"country":"GR","country_iso_code":null,"firstname":"\u039c\u0399\u03a7\u0391\u0397\u039b","lastname":"\u039c\u0391\u03a5\u03a1\u0399\u0394\u039f\u0393\u039b\u039f\u03a5","phone":"6946736465","state":null,"street_1":"\u039a\u0399\u03a3\u03a3\u0391\u0392\u039f\u03a5 17","street_2":null,"zip_code":"18758"}}
+05/09/2024 09:08:41 pm {"acceptance_decision_date":"2024-09-05T08:40:21Z","can_cancel":false,"can_shop_ship":true,"channel":{"code":"GR","label":"Ελλάδα"},"commercial_id":"D500869321","created_date":"2024-09-05T00:08:44Z","currency_iso_code":"EUR","customer":{"billing_address":{"city":"ΚΕΡΑΤΣΙΝΙ  GREECE","company":null,"company_2":null,"country":"GR","country_iso_code":null,"firstname":"ΜΙΧΑΗΛ","lastname":"ΜΑΥΡΙΔΟΓΛΟΥ","phone":"6946736465","state":null,"street_1":"ΚΙΣΣΑΒΟΥ 17","street_2":null,"zip_code":"18758"},"civility":null,"customer_id":"pbc1355503262","firstname":"Μιχαήλ","lastname":"Μαυριδόγλου","locale":null,"shipping_address":{"additional_info":null,"city":"ΚΕΡΑΤΣΙΝΙ  GREECE","company":null,"company_2":null,"country":"GR","country_iso_code":null,"firstname":"ΜΙΧΑΗΛ","lastname":"ΜΑΥΡΙΔΟΓΛΟΥ","phone":"6946736465","state":null,"street_1":"ΚΙΣΣΑΒΟΥ 17","street_2":null,"zip_code":"18758"}},"customer_debited_date":"2024-09-05T08:41:00.816Z","customer_directly_pays_seller":false,"customer_notification_email":"rnjq8zc9j6d.hinkpfk32@notification.mirakl.net","delivery_date":null,"fulfillment":{"center":{"code":"DEFAULT"}},"fully_refunded":false,"has_customer_message":false,"has_incident":false,"has_invoice":false,"last_updated_date":"2024-09-05T08:41:01Z","leadtime_to_ship":5,"order_additional_fields":[{"code":"billingtype","type":"LIST","value":"receipt"},{"code":"payment-token","type":"STRING","value":"9cf77534-8349-4b80-a2b6-ee61fe8dbbfa"}],"order_id":"D500869321-B","order_lines":[{"can_refund":true,"cancelations":[],"category_code":"sxolika-tetradia","category_label":"Τετραδία","commission_fee":0.45,"commission_rate_vat":24,"commission_taxes":[{"amount":0.11,"code":"TAXDEFAULT","rate":24}],"commission_vat":0.11,"created_date":"2024-09-05T00:08:44Z","debited_date":"2024-09-05T08:41:00Z","description":null,"fees":[],"last_updated_date":"2024-09-05T08:41:00Z","offer_id":25728663,"offer_sku":"341-43400","offer_state_code":"11","order_line_additional_fields":[],"order_line_id":"D500869321-B-1","order_line_index":1,"order_line_state":"SHIPPING","order_line_state_reason_code":null,"order_line_state_reason_label":null,"price":0.56,"price_additional_info":null,"price_amount_breakdown":{"parts":[{"amount":0.56,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"price_unit":0.56,"product_medias":[{"media_url":"\/media\/product\/image\/3bea26e5-e74b-401e-95ad-d046e7391d13","mime_type":"JPG","type":"LARGE"},{"media_url":"\/media\/product\/image\/9033fa50-7f34-4f41-8783-ce03244afcb4","mime_type":"JPG","type":"MEDIUM"},{"media_url":"\/media\/product\/image\/b259f96d-8711-4095-9a04-826cd92a3e29","mime_type":"JPG","type":"SMALL"}],"product_sku":"sku9806002pp","product_title":"Τετράδιο MLS B5 Cars (1 Τεμάχιο)","promotions":[],"quantity":1,"received_date":null,"refunds":[],"shipped_date":null,"shipping_from":{"address":{"city":null,"country_iso_code":"GRC","state":null,"street_1":null,"street_2":null,"zip_code":null},"warehouse":null},"shipping_price":3.15,"shipping_price_additional_unit":null,"shipping_price_amount_breakdown":{"parts":[{"amount":3.15,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"shipping_price_unit":null,"shipping_taxes":[{"amount":0.75,"amount_breakdown":{"parts":[{"amount":0.75,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"code":"VAT","tax_calculation_rule":"NONE"}],"taxes":[{"amount":0.13,"amount_breakdown":{"parts":[{"amount":0.13,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"code":"VAT","tax_calculation_rule":"NONE"}],"total_commission":0.56,"total_price":3.71}],"order_refunds":null,"order_state":"SHIPPING","order_state_reason_code":null,"order_state_reason_label":null,"order_tax_mode":"TAX_EXCLUDED","order_taxes":null,"paymentType":"CREDIT_CARD","payment_type":"CREDIT_CARD","payment_workflow":"PAY_ON_ACCEPTANCE","price":0.56,"promotions":{"applied_promotions":[],"total_deduced_amount":0},"quote_id":null,"shipping_carrier_code":null,"shipping_carrier_standard_code":null,"shipping_company":null,"shipping_deadline":"2024-09-10T20:59:59.999Z","shipping_price":3.15,"shipping_pudo_id":null,"shipping_tracking":null,"shipping_tracking_url":null,"shipping_type_code":"standard","shipping_type_label":"Κανονική Παράδοση","shipping_type_standard_code":"CU_ADD-STD","shipping_zone_code":"attiki-thessaloniki","shipping_zone_label":"Αττική","total_commission":0.56,"total_price":3.71}
+05/09/2024 09:08:41 pm {"billing_address":{"city":"ΚΕΡΑΤΣΙΝΙ  GREECE","company":null,"company_2":null,"country":"GR","country_iso_code":null,"firstname":"ΜΙΧΑΗΛ","lastname":"ΜΑΥΡΙΔΟΓΛΟΥ","phone":"6946736465","state":null,"street_1":"ΚΙΣΣΑΒΟΥ 17","street_2":null,"zip_code":"18758"},"civility":null,"customer_id":"pbc1355503262","firstname":"Μιχαήλ","lastname":"Μαυριδόγλου","locale":null,"shipping_address":{"additional_info":null,"city":"ΚΕΡΑΤΣΙΝΙ  GREECE","company":null,"company_2":null,"country":"GR","country_iso_code":null,"firstname":"ΜΙΧΑΗΛ","lastname":"ΜΑΥΡΙΔΟΓΛΟΥ","phone":"6946736465","state":null,"street_1":"ΚΙΣΣΑΒΟΥ 17","street_2":null,"zip_code":"18758"}}
+05/09/2024 09:11:24 pm {"first_name":"Μιχαήλ","last_name":"Μαυριδόγλου","company":"","email":"","phone":"6946736465","address_1":"ΚΙΣΣΑΒΟΥ 17","address_2":null,"city":"ΚΕΡΑΤΣΙΝΙ  GREECE","state":null,"postcode":"18758","country":"GR"}
+05/09/2024 09:12:54 pm {"first_name":"Μιχαήλ","last_name":"Μαυριδόγλου","company":"","email":"","phone":"6946736465","address_1":"ΚΙΣΣΑΒΟΥ 17","address_2":null,"city":"ΚΕΡΑΤΣΙΝΙ  GREECE","state":null,"postcode":"18758","country":"GR"}
+05/09/2024 09:14:00 pm {"first_name":"Μιχαήλ","last_name":"Μαυριδόγλου","company":"","email":"","phone":"6946736465","address_1":"ΚΙΣΣΑΒΟΥ 17","address_2":null,"city":"ΚΕΡΑΤΣΙΝΙ  GREECE","state":null,"postcode":"18758","country":"GR"}
+05/09/2024 09:14:38 pm {"first_name":"Μιχαήλ","last_name":"Μαυριδόγλου","company":"","phone":"6946736465","address_1":"ΚΙΣΣΑΒΟΥ 17","address_2":null,"city":"ΚΕΡΑΤΣΙΝΙ  GREECE","state":null,"postcode":"18758","country":"GR"}
+09/09/2024 04:56:13 pm {"offers":[{"allow_quote_requests":false,"description":"ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑsd","internal_description":"ΜΑΡΚΑΔΟΡΟΙ COLOR' PEPS MAXI X12 ΣΕ ΧΑΡΤΙΝΗ ΣΥΣΚΕΥΑΣΙΑsd","leadtime_to_ship":3,"logistic_class":"small","offer_additional_fields":[{"code":"offervat","type":"LIST","value":"24"},{"code":"shippingvat","type":"LIST","value":"24"}],"price":"3.44","all_prices":[{"channel_code":null,"discount_end_date":null,"discount_start_date":null,"price":"3.44","unit_discount_price":null,"unit_origin_price":"3.44"}],"product_id":"3154148460206","product_id_type":"EAN","quantity":"0","shop_sku":"MAP846020","state_code":"11","update_delete":"update"}]}
+09/09/2024 04:56:13 pm {
+  "import_id" : 9762703
+}
+09/09/2024 08:23:34 pm {"first_name":"Γεώργιος","last_name":"Παπαμανώλης","company":"","phone":"6937280287","address_1":"Pagos","address_2":null,"city":"SYROS  GREECE","state":null,"postcode":"84100","country":"GR"}
+10/09/2024 07:17:12 am {"orders":[{"acceptance_decision_date":null,"can_cancel":false,"can_shop_ship":false,"channel":{"code":"GR","label":"Ελλάδα"},"commercial_id":"D508391427","created_date":"2024-09-10T07:11:45Z","currency_iso_code":"EUR","customer":{"billing_address":null,"civility":null,"customer_id":"pbc1250531725","firstname":"despoinazax","lastname":"Sacharidi","locale":null,"shipping_address":null},"customer_debited_date":null,"customer_directly_pays_seller":false,"customer_notification_email":"rl4r8pg5ax5.hinkpfk32@notification.mirakl.net","delivery_date":null,"fulfillment":{"center":{"code":"DEFAULT"}},"fully_refunded":false,"has_customer_message":false,"has_incident":false,"has_invoice":false,"last_updated_date":"2024-09-10T07:11:45Z","leadtime_to_ship":3,"order_additional_fields":[{"code":"billingtype","type":"LIST","value":"receipt"},{"code":"payment-token","type":"STRING","value":"636be796-a170-466c-95b3-9f6d4519f84d"}],"order_id":"D508391427-C","order_lines":[{"can_refund":false,"cancelations":[],"category_code":"sxolikes-tsantes-fagitou","category_label":"Σχολικές Τσάντες Φαγητού","commission_fee":1.77,"commission_rate_vat":24,"commission_taxes":[{"amount":0.42,"code":"TAXDEFAULT","rate":24}],"commission_vat":0.42,"created_date":"2024-09-10T07:11:45Z","debited_date":null,"description":null,"fees":[],"last_updated_date":"2024-09-10T07:11:45Z","offer_id":25752712,"offer_sku":"349-07220","offer_state_code":"11","order_line_additional_fields":[],"order_line_id":"D508391427-C-1","order_line_index":1,"order_line_state":"WAITING_ACCEPTANCE","order_line_state_reason_code":null,"order_line_state_reason_label":null,"price":8.06,"price_additional_info":null,"price_amount_breakdown":{"parts":[{"amount":8.06,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"price_unit":8.06,"product_medias":[{"media_url":"\/media\/product\/image\/25bad7cb-d250-446f-828f-d9eefb138166","mime_type":"JPG","type":"LARGE"},{"media_url":"\/media\/product\/image\/bc935923-4a83-4385-818f-e649ef6230d4","mime_type":"JPG","type":"SMALL"},{"media_url":"\/media\/product\/image\/ec84828d-67b2-419a-a9d9-f83a0b441a4f","mime_type":"JPG","type":"MEDIUM"}],"product_sku":"sku10640251pp","product_title":"Τσαντάκι Φαγητού Ισοθερμικό Gim Οβάλ Hippo Fisher Price","promotions":[],"quantity":1,"received_date":null,"refunds":[],"shipped_date":null,"shipping_from":{"address":{"city":null,"country_iso_code":"GRC","state":null,"street_1":null,"street_2":null,"zip_code":null},"warehouse":null},"shipping_price":5.56,"shipping_price_additional_unit":null,"shipping_price_amount_breakdown":{"parts":[{"amount":5.56,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"shipping_price_unit":null,"shipping_taxes":[{"amount":1.34,"amount_breakdown":{"parts":[{"amount":1.34,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"code":"VAT","tax_calculation_rule":"NONE"}],"taxes":[{"amount":1.93,"amount_breakdown":{"parts":[{"amount":1.93,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"code":"VAT","tax_calculation_rule":"NONE"}],"total_commission":2.19,"total_price":13.62}],"order_refunds":null,"order_state":"WAITING_ACCEPTANCE","order_state_reason_code":null,"order_state_reason_label":null,"order_tax_mode":"TAX_EXCLUDED","order_taxes":null,"paymentType":"CREDIT_CARD","payment_type":"CREDIT_CARD","payment_workflow":"PAY_ON_ACCEPTANCE","price":8.06,"promotions":{"applied_promotions":[],"total_deduced_amount":0},"quote_id":null,"shipping_carrier_code":null,"shipping_carrier_standard_code":null,"shipping_company":null,"shipping_deadline":"2024-09-13T20:59:59.999Z","shipping_price":5.56,"shipping_pudo_id":null,"shipping_tracking":null,"shipping_tracking_url":null,"shipping_type_code":"standard","shipping_type_label":"Κανονική Παράδοση","shipping_type_standard_code":"CU_ADD-STD","shipping_zone_code":"Disprosites","shipping_zone_label":"Δυσπρόσιτα","total_commission":2.19,"total_price":13.62}],"total_count":1}
+10/09/2024 08:03:13 am {"orders":[{"acceptance_decision_date":null,"can_cancel":false,"can_shop_ship":false,"channel":{"code":"GR","label":"Ελλάδα"},"commercial_id":"D508391427","created_date":"2024-09-10T07:11:45Z","currency_iso_code":"EUR","customer":{"billing_address":null,"civility":null,"customer_id":"pbc1250531725","firstname":"despoinazax","lastname":"Sacharidi","locale":null,"shipping_address":null},"customer_debited_date":null,"customer_directly_pays_seller":false,"customer_notification_email":"rl4r8pg5ax5.hinkpfk32@notification.mirakl.net","delivery_date":null,"fulfillment":{"center":{"code":"DEFAULT"}},"fully_refunded":false,"has_customer_message":false,"has_incident":false,"has_invoice":false,"last_updated_date":"2024-09-10T07:11:45Z","leadtime_to_ship":3,"order_additional_fields":[{"code":"billingtype","type":"LIST","value":"receipt"},{"code":"payment-token","type":"STRING","value":"636be796-a170-466c-95b3-9f6d4519f84d"}],"order_id":"D508391427-C","order_lines":[{"can_refund":false,"cancelations":[],"category_code":"sxolikes-tsantes-fagitou","category_label":"Σχολικές Τσάντες Φαγητού","commission_fee":1.77,"commission_rate_vat":24,"commission_taxes":[{"amount":0.42,"code":"TAXDEFAULT","rate":24}],"commission_vat":0.42,"created_date":"2024-09-10T07:11:45Z","debited_date":null,"description":null,"fees":[],"last_updated_date":"2024-09-10T07:11:45Z","offer_id":25752712,"offer_sku":"349-07220","offer_state_code":"11","order_line_additional_fields":[],"order_line_id":"D508391427-C-1","order_line_index":1,"order_line_state":"WAITING_ACCEPTANCE","order_line_state_reason_code":null,"order_line_state_reason_label":null,"price":8.06,"price_additional_info":null,"price_amount_breakdown":{"parts":[{"amount":8.06,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"price_unit":8.06,"product_medias":[{"media_url":"\/media\/product\/image\/25bad7cb-d250-446f-828f-d9eefb138166","mime_type":"JPG","type":"LARGE"},{"media_url":"\/media\/product\/image\/bc935923-4a83-4385-818f-e649ef6230d4","mime_type":"JPG","type":"SMALL"},{"media_url":"\/media\/product\/image\/ec84828d-67b2-419a-a9d9-f83a0b441a4f","mime_type":"JPG","type":"MEDIUM"}],"product_sku":"sku10640251pp","product_title":"Τσαντάκι Φαγητού Ισοθερμικό Gim Οβάλ Hippo Fisher Price","promotions":[],"quantity":1,"received_date":null,"refunds":[],"shipped_date":null,"shipping_from":{"address":{"city":null,"country_iso_code":"GRC","state":null,"street_1":null,"street_2":null,"zip_code":null},"warehouse":null},"shipping_price":5.56,"shipping_price_additional_unit":null,"shipping_price_amount_breakdown":{"parts":[{"amount":5.56,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"shipping_price_unit":null,"shipping_taxes":[{"amount":1.34,"amount_breakdown":{"parts":[{"amount":1.34,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"code":"VAT","tax_calculation_rule":"NONE"}],"taxes":[{"amount":1.93,"amount_breakdown":{"parts":[{"amount":1.93,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"code":"VAT","tax_calculation_rule":"NONE"}],"total_commission":2.19,"total_price":13.62}],"order_refunds":null,"order_state":"WAITING_ACCEPTANCE","order_state_reason_code":null,"order_state_reason_label":null,"order_tax_mode":"TAX_EXCLUDED","order_taxes":null,"paymentType":"CREDIT_CARD","payment_type":"CREDIT_CARD","payment_workflow":"PAY_ON_ACCEPTANCE","price":8.06,"promotions":{"applied_promotions":[],"total_deduced_amount":0},"quote_id":null,"shipping_carrier_code":null,"shipping_carrier_standard_code":null,"shipping_company":null,"shipping_deadline":"2024-09-13T20:59:59.999Z","shipping_price":5.56,"shipping_pudo_id":null,"shipping_tracking":null,"shipping_tracking_url":null,"shipping_type_code":"standard","shipping_type_label":"Κανονική Παράδοση","shipping_type_standard_code":"CU_ADD-STD","shipping_zone_code":"Disprosites","shipping_zone_label":"Δυσπρόσιτα","total_commission":2.19,"total_price":13.62}],"total_count":1}
+10/09/2024 08:06:17 am {"orders":[{"acceptance_decision_date":null,"can_cancel":false,"can_shop_ship":false,"channel":{"code":"GR","label":"Ελλάδα"},"commercial_id":"D508391427","created_date":"2024-09-10T07:11:45Z","currency_iso_code":"EUR","customer":{"billing_address":null,"civility":null,"customer_id":"pbc1250531725","firstname":"despoinazax","lastname":"Sacharidi","locale":null,"shipping_address":null},"customer_debited_date":null,"customer_directly_pays_seller":false,"customer_notification_email":"rl4r8pg5ax5.hinkpfk32@notification.mirakl.net","delivery_date":null,"fulfillment":{"center":{"code":"DEFAULT"}},"fully_refunded":false,"has_customer_message":false,"has_incident":false,"has_invoice":false,"last_updated_date":"2024-09-10T07:11:45Z","leadtime_to_ship":3,"order_additional_fields":[{"code":"billingtype","type":"LIST","value":"receipt"},{"code":"payment-token","type":"STRING","value":"636be796-a170-466c-95b3-9f6d4519f84d"}],"order_id":"D508391427-C","order_lines":[{"can_refund":false,"cancelations":[],"category_code":"sxolikes-tsantes-fagitou","category_label":"Σχολικές Τσάντες Φαγητού","commission_fee":1.77,"commission_rate_vat":24,"commission_taxes":[{"amount":0.42,"code":"TAXDEFAULT","rate":24}],"commission_vat":0.42,"created_date":"2024-09-10T07:11:45Z","debited_date":null,"description":null,"fees":[],"last_updated_date":"2024-09-10T07:11:45Z","offer_id":25752712,"offer_sku":"349-07220","offer_state_code":"11","order_line_additional_fields":[],"order_line_id":"D508391427-C-1","order_line_index":1,"order_line_state":"WAITING_ACCEPTANCE","order_line_state_reason_code":null,"order_line_state_reason_label":null,"price":8.06,"price_additional_info":null,"price_amount_breakdown":{"parts":[{"amount":8.06,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"price_unit":8.06,"product_medias":[{"media_url":"\/media\/product\/image\/25bad7cb-d250-446f-828f-d9eefb138166","mime_type":"JPG","type":"LARGE"},{"media_url":"\/media\/product\/image\/bc935923-4a83-4385-818f-e649ef6230d4","mime_type":"JPG","type":"SMALL"},{"media_url":"\/media\/product\/image\/ec84828d-67b2-419a-a9d9-f83a0b441a4f","mime_type":"JPG","type":"MEDIUM"}],"product_sku":"sku10640251pp","product_title":"Τσαντάκι Φαγητού Ισοθερμικό Gim Οβάλ Hippo Fisher Price","promotions":[],"quantity":1,"received_date":null,"refunds":[],"shipped_date":null,"shipping_from":{"address":{"city":null,"country_iso_code":"GRC","state":null,"street_1":null,"street_2":null,"zip_code":null},"warehouse":null},"shipping_price":5.56,"shipping_price_additional_unit":null,"shipping_price_amount_breakdown":{"parts":[{"amount":5.56,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"shipping_price_unit":null,"shipping_taxes":[{"amount":1.34,"amount_breakdown":{"parts":[{"amount":1.34,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"code":"VAT","tax_calculation_rule":"NONE"}],"taxes":[{"amount":1.93,"amount_breakdown":{"parts":[{"amount":1.93,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"code":"VAT","tax_calculation_rule":"NONE"}],"total_commission":2.19,"total_price":13.62}],"order_refunds":null,"order_state":"WAITING_ACCEPTANCE","order_state_reason_code":null,"order_state_reason_label":null,"order_tax_mode":"TAX_EXCLUDED","order_taxes":null,"paymentType":"CREDIT_CARD","payment_type":"CREDIT_CARD","payment_workflow":"PAY_ON_ACCEPTANCE","price":8.06,"promotions":{"applied_promotions":[],"total_deduced_amount":0},"quote_id":null,"shipping_carrier_code":null,"shipping_carrier_standard_code":null,"shipping_company":null,"shipping_deadline":"2024-09-13T20:59:59.999Z","shipping_price":5.56,"shipping_pudo_id":null,"shipping_tracking":null,"shipping_tracking_url":null,"shipping_type_code":"standard","shipping_type_label":"Κανονική Παράδοση","shipping_type_standard_code":"CU_ADD-STD","shipping_zone_code":"Disprosites","shipping_zone_label":"Δυσπρόσιτα","total_commission":2.19,"total_price":13.62}],"total_count":1}
+10/09/2024 08:07:13 am {"orders":[{"acceptance_decision_date":null,"can_cancel":false,"can_shop_ship":false,"channel":{"code":"GR","label":"Ελλάδα"},"commercial_id":"D508391427","created_date":"2024-09-10T07:11:45Z","currency_iso_code":"EUR","customer":{"billing_address":null,"civility":null,"customer_id":"pbc1250531725","firstname":"despoinazax","lastname":"Sacharidi","locale":null,"shipping_address":null},"customer_debited_date":null,"customer_directly_pays_seller":false,"customer_notification_email":"rl4r8pg5ax5.hinkpfk32@notification.mirakl.net","delivery_date":null,"fulfillment":{"center":{"code":"DEFAULT"}},"fully_refunded":false,"has_customer_message":false,"has_incident":false,"has_invoice":false,"last_updated_date":"2024-09-10T07:11:45Z","leadtime_to_ship":3,"order_additional_fields":[{"code":"billingtype","type":"LIST","value":"receipt"},{"code":"payment-token","type":"STRING","value":"636be796-a170-466c-95b3-9f6d4519f84d"}],"order_id":"D508391427-C","order_lines":[{"can_refund":false,"cancelations":[],"category_code":"sxolikes-tsantes-fagitou","category_label":"Σχολικές Τσάντες Φαγητού","commission_fee":1.77,"commission_rate_vat":24,"commission_taxes":[{"amount":0.42,"code":"TAXDEFAULT","rate":24}],"commission_vat":0.42,"created_date":"2024-09-10T07:11:45Z","debited_date":null,"description":null,"fees":[],"last_updated_date":"2024-09-10T07:11:45Z","offer_id":25752712,"offer_sku":"349-07220","offer_state_code":"11","order_line_additional_fields":[],"order_line_id":"D508391427-C-1","order_line_index":1,"order_line_state":"WAITING_ACCEPTANCE","order_line_state_reason_code":null,"order_line_state_reason_label":null,"price":8.06,"price_additional_info":null,"price_amount_breakdown":{"parts":[{"amount":8.06,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"price_unit":8.06,"product_medias":[{"media_url":"\/media\/product\/image\/25bad7cb-d250-446f-828f-d9eefb138166","mime_type":"JPG","type":"LARGE"},{"media_url":"\/media\/product\/image\/bc935923-4a83-4385-818f-e649ef6230d4","mime_type":"JPG","type":"SMALL"},{"media_url":"\/media\/product\/image\/ec84828d-67b2-419a-a9d9-f83a0b441a4f","mime_type":"JPG","type":"MEDIUM"}],"product_sku":"sku10640251pp","product_title":"Τσαντάκι Φαγητού Ισοθερμικό Gim Οβάλ Hippo Fisher Price","promotions":[],"quantity":1,"received_date":null,"refunds":[],"shipped_date":null,"shipping_from":{"address":{"city":null,"country_iso_code":"GRC","state":null,"street_1":null,"street_2":null,"zip_code":null},"warehouse":null},"shipping_price":5.56,"shipping_price_additional_unit":null,"shipping_price_amount_breakdown":{"parts":[{"amount":5.56,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"shipping_price_unit":null,"shipping_taxes":[{"amount":1.34,"amount_breakdown":{"parts":[{"amount":1.34,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"code":"VAT","tax_calculation_rule":"NONE"}],"taxes":[{"amount":1.93,"amount_breakdown":{"parts":[{"amount":1.93,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"code":"VAT","tax_calculation_rule":"NONE"}],"total_commission":2.19,"total_price":13.62}],"order_refunds":null,"order_state":"WAITING_ACCEPTANCE","order_state_reason_code":null,"order_state_reason_label":null,"order_tax_mode":"TAX_EXCLUDED","order_taxes":null,"paymentType":"CREDIT_CARD","payment_type":"CREDIT_CARD","payment_workflow":"PAY_ON_ACCEPTANCE","price":8.06,"promotions":{"applied_promotions":[],"total_deduced_amount":0},"quote_id":null,"shipping_carrier_code":null,"shipping_carrier_standard_code":null,"shipping_company":null,"shipping_deadline":"2024-09-13T20:59:59.999Z","shipping_price":5.56,"shipping_pudo_id":null,"shipping_tracking":null,"shipping_tracking_url":null,"shipping_type_code":"standard","shipping_type_label":"Κανονική Παράδοση","shipping_type_standard_code":"CU_ADD-STD","shipping_zone_code":"Disprosites","shipping_zone_label":"Δυσπρόσιτα","total_commission":2.19,"total_price":13.62}],"total_count":1}
+10/09/2024 08:07:31 am {"orders":[{"acceptance_decision_date":null,"can_cancel":false,"can_shop_ship":false,"channel":{"code":"GR","label":"Ελλάδα"},"commercial_id":"D508391427","created_date":"2024-09-10T07:11:45Z","currency_iso_code":"EUR","customer":{"billing_address":null,"civility":null,"customer_id":"pbc1250531725","firstname":"despoinazax","lastname":"Sacharidi","locale":null,"shipping_address":null},"customer_debited_date":null,"customer_directly_pays_seller":false,"customer_notification_email":"rl4r8pg5ax5.hinkpfk32@notification.mirakl.net","delivery_date":null,"fulfillment":{"center":{"code":"DEFAULT"}},"fully_refunded":false,"has_customer_message":false,"has_incident":false,"has_invoice":false,"last_updated_date":"2024-09-10T07:11:45Z","leadtime_to_ship":3,"order_additional_fields":[{"code":"billingtype","type":"LIST","value":"receipt"},{"code":"payment-token","type":"STRING","value":"636be796-a170-466c-95b3-9f6d4519f84d"}],"order_id":"D508391427-C","order_lines":[{"can_refund":false,"cancelations":[],"category_code":"sxolikes-tsantes-fagitou","category_label":"Σχολικές Τσάντες Φαγητού","commission_fee":1.77,"commission_rate_vat":24,"commission_taxes":[{"amount":0.42,"code":"TAXDEFAULT","rate":24}],"commission_vat":0.42,"created_date":"2024-09-10T07:11:45Z","debited_date":null,"description":null,"fees":[],"last_updated_date":"2024-09-10T07:11:45Z","offer_id":25752712,"offer_sku":"349-07220","offer_state_code":"11","order_line_additional_fields":[],"order_line_id":"D508391427-C-1","order_line_index":1,"order_line_state":"WAITING_ACCEPTANCE","order_line_state_reason_code":null,"order_line_state_reason_label":null,"price":8.06,"price_additional_info":null,"price_amount_breakdown":{"parts":[{"amount":8.06,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"price_unit":8.06,"product_medias":[{"media_url":"\/media\/product\/image\/25bad7cb-d250-446f-828f-d9eefb138166","mime_type":"JPG","type":"LARGE"},{"media_url":"\/media\/product\/image\/bc935923-4a83-4385-818f-e649ef6230d4","mime_type":"JPG","type":"SMALL"},{"media_url":"\/media\/product\/image\/ec84828d-67b2-419a-a9d9-f83a0b441a4f","mime_type":"JPG","type":"MEDIUM"}],"product_sku":"sku10640251pp","product_title":"Τσαντάκι Φαγητού Ισοθερμικό Gim Οβάλ Hippo Fisher Price","promotions":[],"quantity":1,"received_date":null,"refunds":[],"shipped_date":null,"shipping_from":{"address":{"city":null,"country_iso_code":"GRC","state":null,"street_1":null,"street_2":null,"zip_code":null},"warehouse":null},"shipping_price":5.56,"shipping_price_additional_unit":null,"shipping_price_amount_breakdown":{"parts":[{"amount":5.56,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"shipping_price_unit":null,"shipping_taxes":[{"amount":1.34,"amount_breakdown":{"parts":[{"amount":1.34,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"code":"VAT","tax_calculation_rule":"NONE"}],"taxes":[{"amount":1.93,"amount_breakdown":{"parts":[{"amount":1.93,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"code":"VAT","tax_calculation_rule":"NONE"}],"total_commission":2.19,"total_price":13.62}],"order_refunds":null,"order_state":"WAITING_ACCEPTANCE","order_state_reason_code":null,"order_state_reason_label":null,"order_tax_mode":"TAX_EXCLUDED","order_taxes":null,"paymentType":"CREDIT_CARD","payment_type":"CREDIT_CARD","payment_workflow":"PAY_ON_ACCEPTANCE","price":8.06,"promotions":{"applied_promotions":[],"total_deduced_amount":0},"quote_id":null,"shipping_carrier_code":null,"shipping_carrier_standard_code":null,"shipping_company":null,"shipping_deadline":"2024-09-13T20:59:59.999Z","shipping_price":5.56,"shipping_pudo_id":null,"shipping_tracking":null,"shipping_tracking_url":null,"shipping_type_code":"standard","shipping_type_label":"Κανονική Παράδοση","shipping_type_standard_code":"CU_ADD-STD","shipping_zone_code":"Disprosites","shipping_zone_label":"Δυσπρόσιτα","total_commission":2.19,"total_price":13.62}],"total_count":1}
+10/09/2024 08:08:35 am {"orders":[{"acceptance_decision_date":null,"can_cancel":false,"can_shop_ship":false,"channel":{"code":"GR","label":"Ελλάδα"},"commercial_id":"D508391427","created_date":"2024-09-10T07:11:45Z","currency_iso_code":"EUR","customer":{"billing_address":null,"civility":null,"customer_id":"pbc1250531725","firstname":"despoinazax","lastname":"Sacharidi","locale":null,"shipping_address":null},"customer_debited_date":null,"customer_directly_pays_seller":false,"customer_notification_email":"rl4r8pg5ax5.hinkpfk32@notification.mirakl.net","delivery_date":null,"fulfillment":{"center":{"code":"DEFAULT"}},"fully_refunded":false,"has_customer_message":false,"has_incident":false,"has_invoice":false,"last_updated_date":"2024-09-10T07:11:45Z","leadtime_to_ship":3,"order_additional_fields":[{"code":"billingtype","type":"LIST","value":"receipt"},{"code":"payment-token","type":"STRING","value":"636be796-a170-466c-95b3-9f6d4519f84d"}],"order_id":"D508391427-C","order_lines":[{"can_refund":false,"cancelations":[],"category_code":"sxolikes-tsantes-fagitou","category_label":"Σχολικές Τσάντες Φαγητού","commission_fee":1.77,"commission_rate_vat":24,"commission_taxes":[{"amount":0.42,"code":"TAXDEFAULT","rate":24}],"commission_vat":0.42,"created_date":"2024-09-10T07:11:45Z","debited_date":null,"description":null,"fees":[],"last_updated_date":"2024-09-10T07:11:45Z","offer_id":25752712,"offer_sku":"349-07220","offer_state_code":"11","order_line_additional_fields":[],"order_line_id":"D508391427-C-1","order_line_index":1,"order_line_state":"WAITING_ACCEPTANCE","order_line_state_reason_code":null,"order_line_state_reason_label":null,"price":8.06,"price_additional_info":null,"price_amount_breakdown":{"parts":[{"amount":8.06,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"price_unit":8.06,"product_medias":[{"media_url":"\/media\/product\/image\/25bad7cb-d250-446f-828f-d9eefb138166","mime_type":"JPG","type":"LARGE"},{"media_url":"\/media\/product\/image\/bc935923-4a83-4385-818f-e649ef6230d4","mime_type":"JPG","type":"SMALL"},{"media_url":"\/media\/product\/image\/ec84828d-67b2-419a-a9d9-f83a0b441a4f","mime_type":"JPG","type":"MEDIUM"}],"product_sku":"sku10640251pp","product_title":"Τσαντάκι Φαγητού Ισοθερμικό Gim Οβάλ Hippo Fisher Price","promotions":[],"quantity":1,"received_date":null,"refunds":[],"shipped_date":null,"shipping_from":{"address":{"city":null,"country_iso_code":"GRC","state":null,"street_1":null,"street_2":null,"zip_code":null},"warehouse":null},"shipping_price":5.56,"shipping_price_additional_unit":null,"shipping_price_amount_breakdown":{"parts":[{"amount":5.56,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"shipping_price_unit":null,"shipping_taxes":[{"amount":1.34,"amount_breakdown":{"parts":[{"amount":1.34,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"code":"VAT","tax_calculation_rule":"NONE"}],"taxes":[{"amount":1.93,"amount_breakdown":{"parts":[{"amount":1.93,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"code":"VAT","tax_calculation_rule":"NONE"}],"total_commission":2.19,"total_price":13.62}],"order_refunds":null,"order_state":"WAITING_ACCEPTANCE","order_state_reason_code":null,"order_state_reason_label":null,"order_tax_mode":"TAX_EXCLUDED","order_taxes":null,"paymentType":"CREDIT_CARD","payment_type":"CREDIT_CARD","payment_workflow":"PAY_ON_ACCEPTANCE","price":8.06,"promotions":{"applied_promotions":[],"total_deduced_amount":0},"quote_id":null,"shipping_carrier_code":null,"shipping_carrier_standard_code":null,"shipping_company":null,"shipping_deadline":"2024-09-13T20:59:59.999Z","shipping_price":5.56,"shipping_pudo_id":null,"shipping_tracking":null,"shipping_tracking_url":null,"shipping_type_code":"standard","shipping_type_label":"Κανονική Παράδοση","shipping_type_standard_code":"CU_ADD-STD","shipping_zone_code":"Disprosites","shipping_zone_label":"Δυσπρόσιτα","total_commission":2.19,"total_price":13.62}],"total_count":1}
+10/09/2024 08:13:18 am {"orders":[{"acceptance_decision_date":null,"can_cancel":false,"can_shop_ship":false,"channel":{"code":"GR","label":"Ελλάδα"},"commercial_id":"D508391427","created_date":"2024-09-10T07:11:45Z","currency_iso_code":"EUR","customer":{"billing_address":null,"civility":null,"customer_id":"pbc1250531725","firstname":"despoinazax","lastname":"Sacharidi","locale":null,"shipping_address":null},"customer_debited_date":null,"customer_directly_pays_seller":false,"customer_notification_email":"rl4r8pg5ax5.hinkpfk32@notification.mirakl.net","delivery_date":null,"fulfillment":{"center":{"code":"DEFAULT"}},"fully_refunded":false,"has_customer_message":false,"has_incident":false,"has_invoice":false,"last_updated_date":"2024-09-10T07:11:45Z","leadtime_to_ship":3,"order_additional_fields":[{"code":"billingtype","type":"LIST","value":"receipt"},{"code":"payment-token","type":"STRING","value":"636be796-a170-466c-95b3-9f6d4519f84d"}],"order_id":"D508391427-C","order_lines":[{"can_refund":false,"cancelations":[],"category_code":"sxolikes-tsantes-fagitou","category_label":"Σχολικές Τσάντες Φαγητού","commission_fee":1.77,"commission_rate_vat":24,"commission_taxes":[{"amount":0.42,"code":"TAXDEFAULT","rate":24}],"commission_vat":0.42,"created_date":"2024-09-10T07:11:45Z","debited_date":null,"description":null,"fees":[],"last_updated_date":"2024-09-10T07:11:45Z","offer_id":25752712,"offer_sku":"349-07220","offer_state_code":"11","order_line_additional_fields":[],"order_line_id":"D508391427-C-1","order_line_index":1,"order_line_state":"WAITING_ACCEPTANCE","order_line_state_reason_code":null,"order_line_state_reason_label":null,"price":8.06,"price_additional_info":null,"price_amount_breakdown":{"parts":[{"amount":8.06,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"price_unit":8.06,"product_medias":[{"media_url":"\/media\/product\/image\/25bad7cb-d250-446f-828f-d9eefb138166","mime_type":"JPG","type":"LARGE"},{"media_url":"\/media\/product\/image\/bc935923-4a83-4385-818f-e649ef6230d4","mime_type":"JPG","type":"SMALL"},{"media_url":"\/media\/product\/image\/ec84828d-67b2-419a-a9d9-f83a0b441a4f","mime_type":"JPG","type":"MEDIUM"}],"product_sku":"sku10640251pp","product_title":"Τσαντάκι Φαγητού Ισοθερμικό Gim Οβάλ Hippo Fisher Price","promotions":[],"quantity":1,"received_date":null,"refunds":[],"shipped_date":null,"shipping_from":{"address":{"city":null,"country_iso_code":"GRC","state":null,"street_1":null,"street_2":null,"zip_code":null},"warehouse":null},"shipping_price":5.56,"shipping_price_additional_unit":null,"shipping_price_amount_breakdown":{"parts":[{"amount":5.56,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"shipping_price_unit":null,"shipping_taxes":[{"amount":1.34,"amount_breakdown":{"parts":[{"amount":1.34,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"code":"VAT","tax_calculation_rule":"NONE"}],"taxes":[{"amount":1.93,"amount_breakdown":{"parts":[{"amount":1.93,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"code":"VAT","tax_calculation_rule":"NONE"}],"total_commission":2.19,"total_price":13.62}],"order_refunds":null,"order_state":"WAITING_ACCEPTANCE","order_state_reason_code":null,"order_state_reason_label":null,"order_tax_mode":"TAX_EXCLUDED","order_taxes":null,"paymentType":"CREDIT_CARD","payment_type":"CREDIT_CARD","payment_workflow":"PAY_ON_ACCEPTANCE","price":8.06,"promotions":{"applied_promotions":[],"total_deduced_amount":0},"quote_id":null,"shipping_carrier_code":null,"shipping_carrier_standard_code":null,"shipping_company":null,"shipping_deadline":"2024-09-13T20:59:59.999Z","shipping_price":5.56,"shipping_pudo_id":null,"shipping_tracking":null,"shipping_tracking_url":null,"shipping_type_code":"standard","shipping_type_label":"Κανονική Παράδοση","shipping_type_standard_code":"CU_ADD-STD","shipping_zone_code":"Disprosites","shipping_zone_label":"Δυσπρόσιτα","total_commission":2.19,"total_price":13.62}],"total_count":1}
+10/09/2024 08:15:08 am {"orders":[{"acceptance_decision_date":null,"can_cancel":false,"can_shop_ship":false,"channel":{"code":"GR","label":"Ελλάδα"},"commercial_id":"D508391427","created_date":"2024-09-10T07:11:45Z","currency_iso_code":"EUR","customer":{"billing_address":null,"civility":null,"customer_id":"pbc1250531725","firstname":"despoinazax","lastname":"Sacharidi","locale":null,"shipping_address":null},"customer_debited_date":null,"customer_directly_pays_seller":false,"customer_notification_email":"rl4r8pg5ax5.hinkpfk32@notification.mirakl.net","delivery_date":null,"fulfillment":{"center":{"code":"DEFAULT"}},"fully_refunded":false,"has_customer_message":false,"has_incident":false,"has_invoice":false,"last_updated_date":"2024-09-10T07:11:45Z","leadtime_to_ship":3,"order_additional_fields":[{"code":"billingtype","type":"LIST","value":"receipt"},{"code":"payment-token","type":"STRING","value":"636be796-a170-466c-95b3-9f6d4519f84d"}],"order_id":"D508391427-C","order_lines":[{"can_refund":false,"cancelations":[],"category_code":"sxolikes-tsantes-fagitou","category_label":"Σχολικές Τσάντες Φαγητού","commission_fee":1.77,"commission_rate_vat":24,"commission_taxes":[{"amount":0.42,"code":"TAXDEFAULT","rate":24}],"commission_vat":0.42,"created_date":"2024-09-10T07:11:45Z","debited_date":null,"description":null,"fees":[],"last_updated_date":"2024-09-10T07:11:45Z","offer_id":25752712,"offer_sku":"349-07220","offer_state_code":"11","order_line_additional_fields":[],"order_line_id":"D508391427-C-1","order_line_index":1,"order_line_state":"WAITING_ACCEPTANCE","order_line_state_reason_code":null,"order_line_state_reason_label":null,"price":8.06,"price_additional_info":null,"price_amount_breakdown":{"parts":[{"amount":8.06,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"price_unit":8.06,"product_medias":[{"media_url":"\/media\/product\/image\/25bad7cb-d250-446f-828f-d9eefb138166","mime_type":"JPG","type":"LARGE"},{"media_url":"\/media\/product\/image\/bc935923-4a83-4385-818f-e649ef6230d4","mime_type":"JPG","type":"SMALL"},{"media_url":"\/media\/product\/image\/ec84828d-67b2-419a-a9d9-f83a0b441a4f","mime_type":"JPG","type":"MEDIUM"}],"product_sku":"sku10640251pp","product_title":"Τσαντάκι Φαγητού Ισοθερμικό Gim Οβάλ Hippo Fisher Price","promotions":[],"quantity":1,"received_date":null,"refunds":[],"shipped_date":null,"shipping_from":{"address":{"city":null,"country_iso_code":"GRC","state":null,"street_1":null,"street_2":null,"zip_code":null},"warehouse":null},"shipping_price":5.56,"shipping_price_additional_unit":null,"shipping_price_amount_breakdown":{"parts":[{"amount":5.56,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"shipping_price_unit":null,"shipping_taxes":[{"amount":1.34,"amount_breakdown":{"parts":[{"amount":1.34,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"code":"VAT","tax_calculation_rule":"NONE"}],"taxes":[{"amount":1.93,"amount_breakdown":{"parts":[{"amount":1.93,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"code":"VAT","tax_calculation_rule":"NONE"}],"total_commission":2.19,"total_price":13.62}],"order_refunds":null,"order_state":"WAITING_ACCEPTANCE","order_state_reason_code":null,"order_state_reason_label":null,"order_tax_mode":"TAX_EXCLUDED","order_taxes":null,"paymentType":"CREDIT_CARD","payment_type":"CREDIT_CARD","payment_workflow":"PAY_ON_ACCEPTANCE","price":8.06,"promotions":{"applied_promotions":[],"total_deduced_amount":0},"quote_id":null,"shipping_carrier_code":null,"shipping_carrier_standard_code":null,"shipping_company":null,"shipping_deadline":"2024-09-13T20:59:59.999Z","shipping_price":5.56,"shipping_pudo_id":null,"shipping_tracking":null,"shipping_tracking_url":null,"shipping_type_code":"standard","shipping_type_label":"Κανονική Παράδοση","shipping_type_standard_code":"CU_ADD-STD","shipping_zone_code":"Disprosites","shipping_zone_label":"Δυσπρόσιτα","total_commission":2.19,"total_price":13.62}],"total_count":1}
+10/09/2024 08:15:14 am {"orders":[{"acceptance_decision_date":null,"can_cancel":false,"can_shop_ship":false,"channel":{"code":"GR","label":"Ελλάδα"},"commercial_id":"D508391427","created_date":"2024-09-10T07:11:45Z","currency_iso_code":"EUR","customer":{"billing_address":null,"civility":null,"customer_id":"pbc1250531725","firstname":"despoinazax","lastname":"Sacharidi","locale":null,"shipping_address":null},"customer_debited_date":null,"customer_directly_pays_seller":false,"customer_notification_email":"rl4r8pg5ax5.hinkpfk32@notification.mirakl.net","delivery_date":null,"fulfillment":{"center":{"code":"DEFAULT"}},"fully_refunded":false,"has_customer_message":false,"has_incident":false,"has_invoice":false,"last_updated_date":"2024-09-10T07:11:45Z","leadtime_to_ship":3,"order_additional_fields":[{"code":"billingtype","type":"LIST","value":"receipt"},{"code":"payment-token","type":"STRING","value":"636be796-a170-466c-95b3-9f6d4519f84d"}],"order_id":"D508391427-C","order_lines":[{"can_refund":false,"cancelations":[],"category_code":"sxolikes-tsantes-fagitou","category_label":"Σχολικές Τσάντες Φαγητού","commission_fee":1.77,"commission_rate_vat":24,"commission_taxes":[{"amount":0.42,"code":"TAXDEFAULT","rate":24}],"commission_vat":0.42,"created_date":"2024-09-10T07:11:45Z","debited_date":null,"description":null,"fees":[],"last_updated_date":"2024-09-10T07:11:45Z","offer_id":25752712,"offer_sku":"349-07220","offer_state_code":"11","order_line_additional_fields":[],"order_line_id":"D508391427-C-1","order_line_index":1,"order_line_state":"WAITING_ACCEPTANCE","order_line_state_reason_code":null,"order_line_state_reason_label":null,"price":8.06,"price_additional_info":null,"price_amount_breakdown":{"parts":[{"amount":8.06,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"price_unit":8.06,"product_medias":[{"media_url":"\/media\/product\/image\/25bad7cb-d250-446f-828f-d9eefb138166","mime_type":"JPG","type":"LARGE"},{"media_url":"\/media\/product\/image\/bc935923-4a83-4385-818f-e649ef6230d4","mime_type":"JPG","type":"SMALL"},{"media_url":"\/media\/product\/image\/ec84828d-67b2-419a-a9d9-f83a0b441a4f","mime_type":"JPG","type":"MEDIUM"}],"product_sku":"sku10640251pp","product_title":"Τσαντάκι Φαγητού Ισοθερμικό Gim Οβάλ Hippo Fisher Price","promotions":[],"quantity":1,"received_date":null,"refunds":[],"shipped_date":null,"shipping_from":{"address":{"city":null,"country_iso_code":"GRC","state":null,"street_1":null,"street_2":null,"zip_code":null},"warehouse":null},"shipping_price":5.56,"shipping_price_additional_unit":null,"shipping_price_amount_breakdown":{"parts":[{"amount":5.56,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"shipping_price_unit":null,"shipping_taxes":[{"amount":1.34,"amount_breakdown":{"parts":[{"amount":1.34,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"code":"VAT","tax_calculation_rule":"NONE"}],"taxes":[{"amount":1.93,"amount_breakdown":{"parts":[{"amount":1.93,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"code":"VAT","tax_calculation_rule":"NONE"}],"total_commission":2.19,"total_price":13.62}],"order_refunds":null,"order_state":"WAITING_ACCEPTANCE","order_state_reason_code":null,"order_state_reason_label":null,"order_tax_mode":"TAX_EXCLUDED","order_taxes":null,"paymentType":"CREDIT_CARD","payment_type":"CREDIT_CARD","payment_workflow":"PAY_ON_ACCEPTANCE","price":8.06,"promotions":{"applied_promotions":[],"total_deduced_amount":0},"quote_id":null,"shipping_carrier_code":null,"shipping_carrier_standard_code":null,"shipping_company":null,"shipping_deadline":"2024-09-13T20:59:59.999Z","shipping_price":5.56,"shipping_pudo_id":null,"shipping_tracking":null,"shipping_tracking_url":null,"shipping_type_code":"standard","shipping_type_label":"Κανονική Παράδοση","shipping_type_standard_code":"CU_ADD-STD","shipping_zone_code":"Disprosites","shipping_zone_label":"Δυσπρόσιτα","total_commission":2.19,"total_price":13.62}],"total_count":1}
+10/09/2024 08:17:10 am {"orders":[{"acceptance_decision_date":null,"can_cancel":false,"can_shop_ship":false,"channel":{"code":"GR","label":"Ελλάδα"},"commercial_id":"D508391427","created_date":"2024-09-10T07:11:45Z","currency_iso_code":"EUR","customer":{"billing_address":null,"civility":null,"customer_id":"pbc1250531725","firstname":"despoinazax","lastname":"Sacharidi","locale":null,"shipping_address":null},"customer_debited_date":null,"customer_directly_pays_seller":false,"customer_notification_email":"rl4r8pg5ax5.hinkpfk32@notification.mirakl.net","delivery_date":null,"fulfillment":{"center":{"code":"DEFAULT"}},"fully_refunded":false,"has_customer_message":false,"has_incident":false,"has_invoice":false,"last_updated_date":"2024-09-10T07:11:45Z","leadtime_to_ship":3,"order_additional_fields":[{"code":"billingtype","type":"LIST","value":"receipt"},{"code":"payment-token","type":"STRING","value":"636be796-a170-466c-95b3-9f6d4519f84d"}],"order_id":"D508391427-C","order_lines":[{"can_refund":false,"cancelations":[],"category_code":"sxolikes-tsantes-fagitou","category_label":"Σχολικές Τσάντες Φαγητού","commission_fee":1.77,"commission_rate_vat":24,"commission_taxes":[{"amount":0.42,"code":"TAXDEFAULT","rate":24}],"commission_vat":0.42,"created_date":"2024-09-10T07:11:45Z","debited_date":null,"description":null,"fees":[],"last_updated_date":"2024-09-10T07:11:45Z","offer_id":25752712,"offer_sku":"349-07220","offer_state_code":"11","order_line_additional_fields":[],"order_line_id":"D508391427-C-1","order_line_index":1,"order_line_state":"WAITING_ACCEPTANCE","order_line_state_reason_code":null,"order_line_state_reason_label":null,"price":8.06,"price_additional_info":null,"price_amount_breakdown":{"parts":[{"amount":8.06,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"price_unit":8.06,"product_medias":[{"media_url":"\/media\/product\/image\/25bad7cb-d250-446f-828f-d9eefb138166","mime_type":"JPG","type":"LARGE"},{"media_url":"\/media\/product\/image\/bc935923-4a83-4385-818f-e649ef6230d4","mime_type":"JPG","type":"SMALL"},{"media_url":"\/media\/product\/image\/ec84828d-67b2-419a-a9d9-f83a0b441a4f","mime_type":"JPG","type":"MEDIUM"}],"product_sku":"sku10640251pp","product_title":"Τσαντάκι Φαγητού Ισοθερμικό Gim Οβάλ Hippo Fisher Price","promotions":[],"quantity":1,"received_date":null,"refunds":[],"shipped_date":null,"shipping_from":{"address":{"city":null,"country_iso_code":"GRC","state":null,"street_1":null,"street_2":null,"zip_code":null},"warehouse":null},"shipping_price":5.56,"shipping_price_additional_unit":null,"shipping_price_amount_breakdown":{"parts":[{"amount":5.56,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"shipping_price_unit":null,"shipping_taxes":[{"amount":1.34,"amount_breakdown":{"parts":[{"amount":1.34,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"code":"VAT","tax_calculation_rule":"NONE"}],"taxes":[{"amount":1.93,"amount_breakdown":{"parts":[{"amount":1.93,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"code":"VAT","tax_calculation_rule":"NONE"}],"total_commission":2.19,"total_price":13.62}],"order_refunds":null,"order_state":"WAITING_ACCEPTANCE","order_state_reason_code":null,"order_state_reason_label":null,"order_tax_mode":"TAX_EXCLUDED","order_taxes":null,"paymentType":"CREDIT_CARD","payment_type":"CREDIT_CARD","payment_workflow":"PAY_ON_ACCEPTANCE","price":8.06,"promotions":{"applied_promotions":[],"total_deduced_amount":0},"quote_id":null,"shipping_carrier_code":null,"shipping_carrier_standard_code":null,"shipping_company":null,"shipping_deadline":"2024-09-13T20:59:59.999Z","shipping_price":5.56,"shipping_pudo_id":null,"shipping_tracking":null,"shipping_tracking_url":null,"shipping_type_code":"standard","shipping_type_label":"Κανονική Παράδοση","shipping_type_standard_code":"CU_ADD-STD","shipping_zone_code":"Disprosites","shipping_zone_label":"Δυσπρόσιτα","total_commission":2.19,"total_price":13.62}],"total_count":1}
+10/09/2024 08:17:37 am {"orders":[{"acceptance_decision_date":null,"can_cancel":false,"can_shop_ship":false,"channel":{"code":"GR","label":"Ελλάδα"},"commercial_id":"D508391427","created_date":"2024-09-10T07:11:45Z","currency_iso_code":"EUR","customer":{"billing_address":null,"civility":null,"customer_id":"pbc1250531725","firstname":"despoinazax","lastname":"Sacharidi","locale":null,"shipping_address":null},"customer_debited_date":null,"customer_directly_pays_seller":false,"customer_notification_email":"rl4r8pg5ax5.hinkpfk32@notification.mirakl.net","delivery_date":null,"fulfillment":{"center":{"code":"DEFAULT"}},"fully_refunded":false,"has_customer_message":false,"has_incident":false,"has_invoice":false,"last_updated_date":"2024-09-10T07:11:45Z","leadtime_to_ship":3,"order_additional_fields":[{"code":"billingtype","type":"LIST","value":"receipt"},{"code":"payment-token","type":"STRING","value":"636be796-a170-466c-95b3-9f6d4519f84d"}],"order_id":"D508391427-C","order_lines":[{"can_refund":false,"cancelations":[],"category_code":"sxolikes-tsantes-fagitou","category_label":"Σχολικές Τσάντες Φαγητού","commission_fee":1.77,"commission_rate_vat":24,"commission_taxes":[{"amount":0.42,"code":"TAXDEFAULT","rate":24}],"commission_vat":0.42,"created_date":"2024-09-10T07:11:45Z","debited_date":null,"description":null,"fees":[],"last_updated_date":"2024-09-10T07:11:45Z","offer_id":25752712,"offer_sku":"349-07220","offer_state_code":"11","order_line_additional_fields":[],"order_line_id":"D508391427-C-1","order_line_index":1,"order_line_state":"WAITING_ACCEPTANCE","order_line_state_reason_code":null,"order_line_state_reason_label":null,"price":8.06,"price_additional_info":null,"price_amount_breakdown":{"parts":[{"amount":8.06,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"price_unit":8.06,"product_medias":[{"media_url":"\/media\/product\/image\/25bad7cb-d250-446f-828f-d9eefb138166","mime_type":"JPG","type":"LARGE"},{"media_url":"\/media\/product\/image\/bc935923-4a83-4385-818f-e649ef6230d4","mime_type":"JPG","type":"SMALL"},{"media_url":"\/media\/product\/image\/ec84828d-67b2-419a-a9d9-f83a0b441a4f","mime_type":"JPG","type":"MEDIUM"}],"product_sku":"sku10640251pp","product_title":"Τσαντάκι Φαγητού Ισοθερμικό Gim Οβάλ Hippo Fisher Price","promotions":[],"quantity":1,"received_date":null,"refunds":[],"shipped_date":null,"shipping_from":{"address":{"city":null,"country_iso_code":"GRC","state":null,"street_1":null,"street_2":null,"zip_code":null},"warehouse":null},"shipping_price":5.56,"shipping_price_additional_unit":null,"shipping_price_amount_breakdown":{"parts":[{"amount":5.56,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"shipping_price_unit":null,"shipping_taxes":[{"amount":1.34,"amount_breakdown":{"parts":[{"amount":1.34,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"code":"VAT","tax_calculation_rule":"NONE"}],"taxes":[{"amount":1.93,"amount_breakdown":{"parts":[{"amount":1.93,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"code":"VAT","tax_calculation_rule":"NONE"}],"total_commission":2.19,"total_price":13.62}],"order_refunds":null,"order_state":"WAITING_ACCEPTANCE","order_state_reason_code":null,"order_state_reason_label":null,"order_tax_mode":"TAX_EXCLUDED","order_taxes":null,"paymentType":"CREDIT_CARD","payment_type":"CREDIT_CARD","payment_workflow":"PAY_ON_ACCEPTANCE","price":8.06,"promotions":{"applied_promotions":[],"total_deduced_amount":0},"quote_id":null,"shipping_carrier_code":null,"shipping_carrier_standard_code":null,"shipping_company":null,"shipping_deadline":"2024-09-13T20:59:59.999Z","shipping_price":5.56,"shipping_pudo_id":null,"shipping_tracking":null,"shipping_tracking_url":null,"shipping_type_code":"standard","shipping_type_label":"Κανονική Παράδοση","shipping_type_standard_code":"CU_ADD-STD","shipping_zone_code":"Disprosites","shipping_zone_label":"Δυσπρόσιτα","total_commission":2.19,"total_price":13.62}],"total_count":1}
+10/09/2024 09:08:23 am {"orders":[{"acceptance_decision_date":null,"can_cancel":false,"can_shop_ship":false,"channel":{"code":"GR","label":"Ελλάδα"},"commercial_id":"D508391427","created_date":"2024-09-10T07:11:45Z","currency_iso_code":"EUR","customer":{"billing_address":null,"civility":null,"customer_id":"pbc1250531725","firstname":"despoinazax","lastname":"Sacharidi","locale":null,"shipping_address":null},"customer_debited_date":null,"customer_directly_pays_seller":false,"customer_notification_email":"rl4r8pg5ax5.hinkpfk32@notification.mirakl.net","delivery_date":null,"fulfillment":{"center":{"code":"DEFAULT"}},"fully_refunded":false,"has_customer_message":false,"has_incident":false,"has_invoice":false,"last_updated_date":"2024-09-10T07:11:45Z","leadtime_to_ship":3,"order_additional_fields":[{"code":"billingtype","type":"LIST","value":"receipt"},{"code":"payment-token","type":"STRING","value":"636be796-a170-466c-95b3-9f6d4519f84d"}],"order_id":"D508391427-C","order_lines":[{"can_refund":false,"cancelations":[],"category_code":"sxolikes-tsantes-fagitou","category_label":"Σχολικές Τσάντες Φαγητού","commission_fee":1.77,"commission_rate_vat":24,"commission_taxes":[{"amount":0.42,"code":"TAXDEFAULT","rate":24}],"commission_vat":0.42,"created_date":"2024-09-10T07:11:45Z","debited_date":null,"description":null,"fees":[],"last_updated_date":"2024-09-10T07:11:45Z","offer_id":25752712,"offer_sku":"349-07220","offer_state_code":"11","order_line_additional_fields":[],"order_line_id":"D508391427-C-1","order_line_index":1,"order_line_state":"WAITING_ACCEPTANCE","order_line_state_reason_code":null,"order_line_state_reason_label":null,"price":8.06,"price_additional_info":null,"price_amount_breakdown":{"parts":[{"amount":8.06,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"price_unit":8.06,"product_medias":[{"media_url":"\/media\/product\/image\/25bad7cb-d250-446f-828f-d9eefb138166","mime_type":"JPG","type":"LARGE"},{"media_url":"\/media\/product\/image\/bc935923-4a83-4385-818f-e649ef6230d4","mime_type":"JPG","type":"SMALL"},{"media_url":"\/media\/product\/image\/ec84828d-67b2-419a-a9d9-f83a0b441a4f","mime_type":"JPG","type":"MEDIUM"}],"product_sku":"sku10640251pp","product_title":"Τσαντάκι Φαγητού Ισοθερμικό Gim Οβάλ Hippo Fisher Price","promotions":[],"quantity":1,"received_date":null,"refunds":[],"shipped_date":null,"shipping_from":{"address":{"city":null,"country_iso_code":"GRC","state":null,"street_1":null,"street_2":null,"zip_code":null},"warehouse":null},"shipping_price":5.56,"shipping_price_additional_unit":null,"shipping_price_amount_breakdown":{"parts":[{"amount":5.56,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"shipping_price_unit":null,"shipping_taxes":[{"amount":1.34,"amount_breakdown":{"parts":[{"amount":1.34,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"code":"VAT","tax_calculation_rule":"NONE"}],"taxes":[{"amount":1.93,"amount_breakdown":{"parts":[{"amount":1.93,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"code":"VAT","tax_calculation_rule":"NONE"}],"total_commission":2.19,"total_price":13.62}],"order_refunds":null,"order_state":"WAITING_ACCEPTANCE","order_state_reason_code":null,"order_state_reason_label":null,"order_tax_mode":"TAX_EXCLUDED","order_taxes":null,"paymentType":"CREDIT_CARD","payment_type":"CREDIT_CARD","payment_workflow":"PAY_ON_ACCEPTANCE","price":8.06,"promotions":{"applied_promotions":[],"total_deduced_amount":0},"quote_id":null,"shipping_carrier_code":null,"shipping_carrier_standard_code":null,"shipping_company":null,"shipping_deadline":"2024-09-13T20:59:59.999Z","shipping_price":5.56,"shipping_pudo_id":null,"shipping_tracking":null,"shipping_tracking_url":null,"shipping_type_code":"standard","shipping_type_label":"Κανονική Παράδοση","shipping_type_standard_code":"CU_ADD-STD","shipping_zone_code":"Disprosites","shipping_zone_label":"Δυσπρόσιτα","total_commission":2.19,"total_price":13.62}],"total_count":1}
+10/09/2024 09:32:25 am {"orders":[{"acceptance_decision_date":null,"can_cancel":false,"can_shop_ship":false,"channel":{"code":"GR","label":"Ελλάδα"},"commercial_id":"D508391427","created_date":"2024-09-10T07:11:45Z","currency_iso_code":"EUR","customer":{"billing_address":null,"civility":null,"customer_id":"pbc1250531725","firstname":"despoinazax","lastname":"Sacharidi","locale":null,"shipping_address":null},"customer_debited_date":null,"customer_directly_pays_seller":false,"customer_notification_email":"rl4r8pg5ax5.hinkpfk32@notification.mirakl.net","delivery_date":null,"fulfillment":{"center":{"code":"DEFAULT"}},"fully_refunded":false,"has_customer_message":false,"has_incident":false,"has_invoice":false,"last_updated_date":"2024-09-10T07:11:45Z","leadtime_to_ship":3,"order_additional_fields":[{"code":"billingtype","type":"LIST","value":"receipt"},{"code":"payment-token","type":"STRING","value":"636be796-a170-466c-95b3-9f6d4519f84d"}],"order_id":"D508391427-C","order_lines":[{"can_refund":false,"cancelations":[],"category_code":"sxolikes-tsantes-fagitou","category_label":"Σχολικές Τσάντες Φαγητού","commission_fee":1.77,"commission_rate_vat":24,"commission_taxes":[{"amount":0.42,"code":"TAXDEFAULT","rate":24}],"commission_vat":0.42,"created_date":"2024-09-10T07:11:45Z","debited_date":null,"description":null,"fees":[],"last_updated_date":"2024-09-10T07:11:45Z","offer_id":25752712,"offer_sku":"349-07220","offer_state_code":"11","order_line_additional_fields":[],"order_line_id":"D508391427-C-1","order_line_index":1,"order_line_state":"WAITING_ACCEPTANCE","order_line_state_reason_code":null,"order_line_state_reason_label":null,"price":8.06,"price_additional_info":null,"price_amount_breakdown":{"parts":[{"amount":8.06,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"price_unit":8.06,"product_medias":[{"media_url":"\/media\/product\/image\/25bad7cb-d250-446f-828f-d9eefb138166","mime_type":"JPG","type":"LARGE"},{"media_url":"\/media\/product\/image\/bc935923-4a83-4385-818f-e649ef6230d4","mime_type":"JPG","type":"SMALL"},{"media_url":"\/media\/product\/image\/ec84828d-67b2-419a-a9d9-f83a0b441a4f","mime_type":"JPG","type":"MEDIUM"}],"product_sku":"sku10640251pp","product_title":"Τσαντάκι Φαγητού Ισοθερμικό Gim Οβάλ Hippo Fisher Price","promotions":[],"quantity":1,"received_date":null,"refunds":[],"shipped_date":null,"shipping_from":{"address":{"city":null,"country_iso_code":"GRC","state":null,"street_1":null,"street_2":null,"zip_code":null},"warehouse":null},"shipping_price":5.56,"shipping_price_additional_unit":null,"shipping_price_amount_breakdown":{"parts":[{"amount":5.56,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"shipping_price_unit":null,"shipping_taxes":[{"amount":1.34,"amount_breakdown":{"parts":[{"amount":1.34,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"code":"VAT","tax_calculation_rule":"NONE"}],"taxes":[{"amount":1.93,"amount_breakdown":{"parts":[{"amount":1.93,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"code":"VAT","tax_calculation_rule":"NONE"}],"total_commission":2.19,"total_price":13.62}],"order_refunds":null,"order_state":"WAITING_ACCEPTANCE","order_state_reason_code":null,"order_state_reason_label":null,"order_tax_mode":"TAX_EXCLUDED","order_taxes":null,"paymentType":"CREDIT_CARD","payment_type":"CREDIT_CARD","payment_workflow":"PAY_ON_ACCEPTANCE","price":8.06,"promotions":{"applied_promotions":[],"total_deduced_amount":0},"quote_id":null,"shipping_carrier_code":null,"shipping_carrier_standard_code":null,"shipping_company":null,"shipping_deadline":"2024-09-13T20:59:59.999Z","shipping_price":5.56,"shipping_pudo_id":null,"shipping_tracking":null,"shipping_tracking_url":null,"shipping_type_code":"standard","shipping_type_label":"Κανονική Παράδοση","shipping_type_standard_code":"CU_ADD-STD","shipping_zone_code":"Disprosites","shipping_zone_label":"Δυσπρόσιτα","total_commission":2.19,"total_price":13.62}],"total_count":1}
+10/09/2024 10:06:52 am {"orders":[{"acceptance_decision_date":null,"can_cancel":false,"can_shop_ship":false,"channel":{"code":"GR","label":"Ελλάδα"},"commercial_id":"D508391427","created_date":"2024-09-10T07:11:45Z","currency_iso_code":"EUR","customer":{"billing_address":null,"civility":null,"customer_id":"pbc1250531725","firstname":"despoinazax","lastname":"Sacharidi","locale":null,"shipping_address":null},"customer_debited_date":null,"customer_directly_pays_seller":false,"customer_notification_email":"rl4r8pg5ax5.hinkpfk32@notification.mirakl.net","delivery_date":null,"fulfillment":{"center":{"code":"DEFAULT"}},"fully_refunded":false,"has_customer_message":false,"has_incident":false,"has_invoice":false,"last_updated_date":"2024-09-10T07:11:45Z","leadtime_to_ship":3,"order_additional_fields":[{"code":"billingtype","type":"LIST","value":"receipt"},{"code":"payment-token","type":"STRING","value":"636be796-a170-466c-95b3-9f6d4519f84d"}],"order_id":"D508391427-C","order_lines":[{"can_refund":false,"cancelations":[],"category_code":"sxolikes-tsantes-fagitou","category_label":"Σχολικές Τσάντες Φαγητού","commission_fee":1.77,"commission_rate_vat":24,"commission_taxes":[{"amount":0.42,"code":"TAXDEFAULT","rate":24}],"commission_vat":0.42,"created_date":"2024-09-10T07:11:45Z","debited_date":null,"description":null,"fees":[],"last_updated_date":"2024-09-10T07:11:45Z","offer_id":25752712,"offer_sku":"349-07220","offer_state_code":"11","order_line_additional_fields":[],"order_line_id":"D508391427-C-1","order_line_index":1,"order_line_state":"WAITING_ACCEPTANCE","order_line_state_reason_code":null,"order_line_state_reason_label":null,"price":8.06,"price_additional_info":null,"price_amount_breakdown":{"parts":[{"amount":8.06,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"price_unit":8.06,"product_medias":[{"media_url":"\/media\/product\/image\/25bad7cb-d250-446f-828f-d9eefb138166","mime_type":"JPG","type":"LARGE"},{"media_url":"\/media\/product\/image\/bc935923-4a83-4385-818f-e649ef6230d4","mime_type":"JPG","type":"SMALL"},{"media_url":"\/media\/product\/image\/ec84828d-67b2-419a-a9d9-f83a0b441a4f","mime_type":"JPG","type":"MEDIUM"}],"product_sku":"sku10640251pp","product_title":"Τσαντάκι Φαγητού Ισοθερμικό Gim Οβάλ Hippo Fisher Price","promotions":[],"quantity":1,"received_date":null,"refunds":[],"shipped_date":null,"shipping_from":{"address":{"city":null,"country_iso_code":"GRC","state":null,"street_1":null,"street_2":null,"zip_code":null},"warehouse":null},"shipping_price":5.56,"shipping_price_additional_unit":null,"shipping_price_amount_breakdown":{"parts":[{"amount":5.56,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"shipping_price_unit":null,"shipping_taxes":[{"amount":1.34,"amount_breakdown":{"parts":[{"amount":1.34,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"code":"VAT","tax_calculation_rule":"NONE"}],"taxes":[{"amount":1.93,"amount_breakdown":{"parts":[{"amount":1.93,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"code":"VAT","tax_calculation_rule":"NONE"}],"total_commission":2.19,"total_price":13.62}],"order_refunds":null,"order_state":"WAITING_ACCEPTANCE","order_state_reason_code":null,"order_state_reason_label":null,"order_tax_mode":"TAX_EXCLUDED","order_taxes":null,"paymentType":"CREDIT_CARD","payment_type":"CREDIT_CARD","payment_workflow":"PAY_ON_ACCEPTANCE","price":8.06,"promotions":{"applied_promotions":[],"total_deduced_amount":0},"quote_id":null,"shipping_carrier_code":null,"shipping_carrier_standard_code":null,"shipping_company":null,"shipping_deadline":"2024-09-13T20:59:59.999Z","shipping_price":5.56,"shipping_pudo_id":null,"shipping_tracking":null,"shipping_tracking_url":null,"shipping_type_code":"standard","shipping_type_label":"Κανονική Παράδοση","shipping_type_standard_code":"CU_ADD-STD","shipping_zone_code":"Disprosites","shipping_zone_label":"Δυσπρόσιτα","total_commission":2.19,"total_price":13.62}],"total_count":1}
+10/09/2024 10:24:11 am {"orders":[{"acceptance_decision_date":null,"can_cancel":false,"can_shop_ship":false,"channel":{"code":"GR","label":"Ελλάδα"},"commercial_id":"D508391427","created_date":"2024-09-10T07:11:45Z","currency_iso_code":"EUR","customer":{"billing_address":null,"civility":null,"customer_id":"pbc1250531725","firstname":"despoinazax","lastname":"Sacharidi","locale":null,"shipping_address":null},"customer_debited_date":null,"customer_directly_pays_seller":false,"customer_notification_email":"rl4r8pg5ax5.hinkpfk32@notification.mirakl.net","delivery_date":null,"fulfillment":{"center":{"code":"DEFAULT"}},"fully_refunded":false,"has_customer_message":false,"has_incident":false,"has_invoice":false,"last_updated_date":"2024-09-10T07:11:45Z","leadtime_to_ship":3,"order_additional_fields":[{"code":"billingtype","type":"LIST","value":"receipt"},{"code":"payment-token","type":"STRING","value":"636be796-a170-466c-95b3-9f6d4519f84d"}],"order_id":"D508391427-C","order_lines":[{"can_refund":false,"cancelations":[],"category_code":"sxolikes-tsantes-fagitou","category_label":"Σχολικές Τσάντες Φαγητού","commission_fee":1.77,"commission_rate_vat":24,"commission_taxes":[{"amount":0.42,"code":"TAXDEFAULT","rate":24}],"commission_vat":0.42,"created_date":"2024-09-10T07:11:45Z","debited_date":null,"description":null,"fees":[],"last_updated_date":"2024-09-10T07:11:45Z","offer_id":25752712,"offer_sku":"349-07220","offer_state_code":"11","order_line_additional_fields":[],"order_line_id":"D508391427-C-1","order_line_index":1,"order_line_state":"WAITING_ACCEPTANCE","order_line_state_reason_code":null,"order_line_state_reason_label":null,"price":8.06,"price_additional_info":null,"price_amount_breakdown":{"parts":[{"amount":8.06,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"price_unit":8.06,"product_medias":[{"media_url":"\/media\/product\/image\/25bad7cb-d250-446f-828f-d9eefb138166","mime_type":"JPG","type":"LARGE"},{"media_url":"\/media\/product\/image\/bc935923-4a83-4385-818f-e649ef6230d4","mime_type":"JPG","type":"SMALL"},{"media_url":"\/media\/product\/image\/ec84828d-67b2-419a-a9d9-f83a0b441a4f","mime_type":"JPG","type":"MEDIUM"}],"product_sku":"sku10640251pp","product_title":"Τσαντάκι Φαγητού Ισοθερμικό Gim Οβάλ Hippo Fisher Price","promotions":[],"quantity":1,"received_date":null,"refunds":[],"shipped_date":null,"shipping_from":{"address":{"city":null,"country_iso_code":"GRC","state":null,"street_1":null,"street_2":null,"zip_code":null},"warehouse":null},"shipping_price":5.56,"shipping_price_additional_unit":null,"shipping_price_amount_breakdown":{"parts":[{"amount":5.56,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"shipping_price_unit":null,"shipping_taxes":[{"amount":1.34,"amount_breakdown":{"parts":[{"amount":1.34,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"code":"VAT","tax_calculation_rule":"NONE"}],"taxes":[{"amount":1.93,"amount_breakdown":{"parts":[{"amount":1.93,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"code":"VAT","tax_calculation_rule":"NONE"}],"total_commission":2.19,"total_price":13.62}],"order_refunds":null,"order_state":"WAITING_ACCEPTANCE","order_state_reason_code":null,"order_state_reason_label":null,"order_tax_mode":"TAX_EXCLUDED","order_taxes":null,"paymentType":"CREDIT_CARD","payment_type":"CREDIT_CARD","payment_workflow":"PAY_ON_ACCEPTANCE","price":8.06,"promotions":{"applied_promotions":[],"total_deduced_amount":0},"quote_id":null,"shipping_carrier_code":null,"shipping_carrier_standard_code":null,"shipping_company":null,"shipping_deadline":"2024-09-13T20:59:59.999Z","shipping_price":5.56,"shipping_pudo_id":null,"shipping_tracking":null,"shipping_tracking_url":null,"shipping_type_code":"standard","shipping_type_label":"Κανονική Παράδοση","shipping_type_standard_code":"CU_ADD-STD","shipping_zone_code":"Disprosites","shipping_zone_label":"Δυσπρόσιτα","total_commission":2.19,"total_price":13.62}],"total_count":1}
+10/09/2024 10:24:51 am {"orders":[{"acceptance_decision_date":null,"can_cancel":false,"can_shop_ship":false,"channel":{"code":"GR","label":"Ελλάδα"},"commercial_id":"D508391427","created_date":"2024-09-10T07:11:45Z","currency_iso_code":"EUR","customer":{"billing_address":null,"civility":null,"customer_id":"pbc1250531725","firstname":"despoinazax","lastname":"Sacharidi","locale":null,"shipping_address":null},"customer_debited_date":null,"customer_directly_pays_seller":false,"customer_notification_email":"rl4r8pg5ax5.hinkpfk32@notification.mirakl.net","delivery_date":null,"fulfillment":{"center":{"code":"DEFAULT"}},"fully_refunded":false,"has_customer_message":false,"has_incident":false,"has_invoice":false,"last_updated_date":"2024-09-10T07:11:45Z","leadtime_to_ship":3,"order_additional_fields":[{"code":"billingtype","type":"LIST","value":"receipt"},{"code":"payment-token","type":"STRING","value":"636be796-a170-466c-95b3-9f6d4519f84d"}],"order_id":"D508391427-C","order_lines":[{"can_refund":false,"cancelations":[],"category_code":"sxolikes-tsantes-fagitou","category_label":"Σχολικές Τσάντες Φαγητού","commission_fee":1.77,"commission_rate_vat":24,"commission_taxes":[{"amount":0.42,"code":"TAXDEFAULT","rate":24}],"commission_vat":0.42,"created_date":"2024-09-10T07:11:45Z","debited_date":null,"description":null,"fees":[],"last_updated_date":"2024-09-10T07:11:45Z","offer_id":25752712,"offer_sku":"349-07220","offer_state_code":"11","order_line_additional_fields":[],"order_line_id":"D508391427-C-1","order_line_index":1,"order_line_state":"WAITING_ACCEPTANCE","order_line_state_reason_code":null,"order_line_state_reason_label":null,"price":8.06,"price_additional_info":null,"price_amount_breakdown":{"parts":[{"amount":8.06,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"price_unit":8.06,"product_medias":[{"media_url":"\/media\/product\/image\/25bad7cb-d250-446f-828f-d9eefb138166","mime_type":"JPG","type":"LARGE"},{"media_url":"\/media\/product\/image\/bc935923-4a83-4385-818f-e649ef6230d4","mime_type":"JPG","type":"SMALL"},{"media_url":"\/media\/product\/image\/ec84828d-67b2-419a-a9d9-f83a0b441a4f","mime_type":"JPG","type":"MEDIUM"}],"product_sku":"sku10640251pp","product_title":"Τσαντάκι Φαγητού Ισοθερμικό Gim Οβάλ Hippo Fisher Price","promotions":[],"quantity":1,"received_date":null,"refunds":[],"shipped_date":null,"shipping_from":{"address":{"city":null,"country_iso_code":"GRC","state":null,"street_1":null,"street_2":null,"zip_code":null},"warehouse":null},"shipping_price":5.56,"shipping_price_additional_unit":null,"shipping_price_amount_breakdown":{"parts":[{"amount":5.56,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"shipping_price_unit":null,"shipping_taxes":[{"amount":1.34,"amount_breakdown":{"parts":[{"amount":1.34,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"code":"VAT","tax_calculation_rule":"NONE"}],"taxes":[{"amount":1.93,"amount_breakdown":{"parts":[{"amount":1.93,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"code":"VAT","tax_calculation_rule":"NONE"}],"total_commission":2.19,"total_price":13.62}],"order_refunds":null,"order_state":"WAITING_ACCEPTANCE","order_state_reason_code":null,"order_state_reason_label":null,"order_tax_mode":"TAX_EXCLUDED","order_taxes":null,"paymentType":"CREDIT_CARD","payment_type":"CREDIT_CARD","payment_workflow":"PAY_ON_ACCEPTANCE","price":8.06,"promotions":{"applied_promotions":[],"total_deduced_amount":0},"quote_id":null,"shipping_carrier_code":null,"shipping_carrier_standard_code":null,"shipping_company":null,"shipping_deadline":"2024-09-13T20:59:59.999Z","shipping_price":5.56,"shipping_pudo_id":null,"shipping_tracking":null,"shipping_tracking_url":null,"shipping_type_code":"standard","shipping_type_label":"Κανονική Παράδοση","shipping_type_standard_code":"CU_ADD-STD","shipping_zone_code":"Disprosites","shipping_zone_label":"Δυσπρόσιτα","total_commission":2.19,"total_price":13.62}],"total_count":1}
+10/09/2024 10:46:00 am {"orders":[{"acceptance_decision_date":null,"can_cancel":false,"can_shop_ship":false,"channel":{"code":"GR","label":"Ελλάδα"},"commercial_id":"D508391427","created_date":"2024-09-10T07:11:45Z","currency_iso_code":"EUR","customer":{"billing_address":null,"civility":null,"customer_id":"pbc1250531725","firstname":"despoinazax","lastname":"Sacharidi","locale":null,"shipping_address":null},"customer_debited_date":null,"customer_directly_pays_seller":false,"customer_notification_email":"rl4r8pg5ax5.hinkpfk32@notification.mirakl.net","delivery_date":null,"fulfillment":{"center":{"code":"DEFAULT"}},"fully_refunded":false,"has_customer_message":false,"has_incident":false,"has_invoice":false,"last_updated_date":"2024-09-10T07:11:45Z","leadtime_to_ship":3,"order_additional_fields":[{"code":"billingtype","type":"LIST","value":"receipt"},{"code":"payment-token","type":"STRING","value":"636be796-a170-466c-95b3-9f6d4519f84d"}],"order_id":"D508391427-C","order_lines":[{"can_refund":false,"cancelations":[],"category_code":"sxolikes-tsantes-fagitou","category_label":"Σχολικές Τσάντες Φαγητού","commission_fee":1.77,"commission_rate_vat":24,"commission_taxes":[{"amount":0.42,"code":"TAXDEFAULT","rate":24}],"commission_vat":0.42,"created_date":"2024-09-10T07:11:45Z","debited_date":null,"description":null,"fees":[],"last_updated_date":"2024-09-10T07:11:45Z","offer_id":25752712,"offer_sku":"349-07220","offer_state_code":"11","order_line_additional_fields":[],"order_line_id":"D508391427-C-1","order_line_index":1,"order_line_state":"WAITING_ACCEPTANCE","order_line_state_reason_code":null,"order_line_state_reason_label":null,"price":8.06,"price_additional_info":null,"price_amount_breakdown":{"parts":[{"amount":8.06,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"price_unit":8.06,"product_medias":[{"media_url":"\/media\/product\/image\/25bad7cb-d250-446f-828f-d9eefb138166","mime_type":"JPG","type":"LARGE"},{"media_url":"\/media\/product\/image\/bc935923-4a83-4385-818f-e649ef6230d4","mime_type":"JPG","type":"SMALL"},{"media_url":"\/media\/product\/image\/ec84828d-67b2-419a-a9d9-f83a0b441a4f","mime_type":"JPG","type":"MEDIUM"}],"product_sku":"sku10640251pp","product_title":"Τσαντάκι Φαγητού Ισοθερμικό Gim Οβάλ Hippo Fisher Price","promotions":[],"quantity":1,"received_date":null,"refunds":[],"shipped_date":null,"shipping_from":{"address":{"city":null,"country_iso_code":"GRC","state":null,"street_1":null,"street_2":null,"zip_code":null},"warehouse":null},"shipping_price":5.56,"shipping_price_additional_unit":null,"shipping_price_amount_breakdown":{"parts":[{"amount":5.56,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"shipping_price_unit":null,"shipping_taxes":[{"amount":1.34,"amount_breakdown":{"parts":[{"amount":1.34,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"code":"VAT","tax_calculation_rule":"NONE"}],"taxes":[{"amount":1.93,"amount_breakdown":{"parts":[{"amount":1.93,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"code":"VAT","tax_calculation_rule":"NONE"}],"total_commission":2.19,"total_price":13.62}],"order_refunds":null,"order_state":"WAITING_ACCEPTANCE","order_state_reason_code":null,"order_state_reason_label":null,"order_tax_mode":"TAX_EXCLUDED","order_taxes":null,"paymentType":"CREDIT_CARD","payment_type":"CREDIT_CARD","payment_workflow":"PAY_ON_ACCEPTANCE","price":8.06,"promotions":{"applied_promotions":[],"total_deduced_amount":0},"quote_id":null,"shipping_carrier_code":null,"shipping_carrier_standard_code":null,"shipping_company":null,"shipping_deadline":"2024-09-13T20:59:59.999Z","shipping_price":5.56,"shipping_pudo_id":null,"shipping_tracking":null,"shipping_tracking_url":null,"shipping_type_code":"standard","shipping_type_label":"Κανονική Παράδοση","shipping_type_standard_code":"CU_ADD-STD","shipping_zone_code":"Disprosites","shipping_zone_label":"Δυσπρόσιτα","total_commission":2.19,"total_price":13.62}],"total_count":1}
+10/09/2024 11:45:06 am {"orders":[{"acceptance_decision_date":null,"can_cancel":false,"can_shop_ship":false,"channel":{"code":"GR","label":"Ελλάδα"},"commercial_id":"D508391427","created_date":"2024-09-10T07:11:45Z","currency_iso_code":"EUR","customer":{"billing_address":null,"civility":null,"customer_id":"pbc1250531725","firstname":"despoinazax","lastname":"Sacharidi","locale":null,"shipping_address":null},"customer_debited_date":null,"customer_directly_pays_seller":false,"customer_notification_email":"rl4r8pg5ax5.hinkpfk32@notification.mirakl.net","delivery_date":null,"fulfillment":{"center":{"code":"DEFAULT"}},"fully_refunded":false,"has_customer_message":false,"has_incident":false,"has_invoice":false,"last_updated_date":"2024-09-10T07:11:45Z","leadtime_to_ship":3,"order_additional_fields":[{"code":"billingtype","type":"LIST","value":"receipt"},{"code":"payment-token","type":"STRING","value":"636be796-a170-466c-95b3-9f6d4519f84d"}],"order_id":"D508391427-C","order_lines":[{"can_refund":false,"cancelations":[],"category_code":"sxolikes-tsantes-fagitou","category_label":"Σχολικές Τσάντες Φαγητού","commission_fee":1.77,"commission_rate_vat":24,"commission_taxes":[{"amount":0.42,"code":"TAXDEFAULT","rate":24}],"commission_vat":0.42,"created_date":"2024-09-10T07:11:45Z","debited_date":null,"description":null,"fees":[],"last_updated_date":"2024-09-10T07:11:45Z","offer_id":25752712,"offer_sku":"349-07220","offer_state_code":"11","order_line_additional_fields":[],"order_line_id":"D508391427-C-1","order_line_index":1,"order_line_state":"WAITING_ACCEPTANCE","order_line_state_reason_code":null,"order_line_state_reason_label":null,"price":8.06,"price_additional_info":null,"price_amount_breakdown":{"parts":[{"amount":8.06,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"price_unit":8.06,"product_medias":[{"media_url":"\/media\/product\/image\/25bad7cb-d250-446f-828f-d9eefb138166","mime_type":"JPG","type":"LARGE"},{"media_url":"\/media\/product\/image\/bc935923-4a83-4385-818f-e649ef6230d4","mime_type":"JPG","type":"SMALL"},{"media_url":"\/media\/product\/image\/ec84828d-67b2-419a-a9d9-f83a0b441a4f","mime_type":"JPG","type":"MEDIUM"}],"product_sku":"sku10640251pp","product_title":"Τσαντάκι Φαγητού Ισοθερμικό Gim Οβάλ Hippo Fisher Price","promotions":[],"quantity":1,"received_date":null,"refunds":[],"shipped_date":null,"shipping_from":{"address":{"city":null,"country_iso_code":"GRC","state":null,"street_1":null,"street_2":null,"zip_code":null},"warehouse":null},"shipping_price":5.56,"shipping_price_additional_unit":null,"shipping_price_amount_breakdown":{"parts":[{"amount":5.56,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"shipping_price_unit":null,"shipping_taxes":[{"amount":1.34,"amount_breakdown":{"parts":[{"amount":1.34,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"code":"VAT","tax_calculation_rule":"NONE"}],"taxes":[{"amount":1.93,"amount_breakdown":{"parts":[{"amount":1.93,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"code":"VAT","tax_calculation_rule":"NONE"}],"total_commission":2.19,"total_price":13.62}],"order_refunds":null,"order_state":"WAITING_ACCEPTANCE","order_state_reason_code":null,"order_state_reason_label":null,"order_tax_mode":"TAX_EXCLUDED","order_taxes":null,"paymentType":"CREDIT_CARD","payment_type":"CREDIT_CARD","payment_workflow":"PAY_ON_ACCEPTANCE","price":8.06,"promotions":{"applied_promotions":[],"total_deduced_amount":0},"quote_id":null,"shipping_carrier_code":null,"shipping_carrier_standard_code":null,"shipping_company":null,"shipping_deadline":"2024-09-13T20:59:59.999Z","shipping_price":5.56,"shipping_pudo_id":null,"shipping_tracking":null,"shipping_tracking_url":null,"shipping_type_code":"standard","shipping_type_label":"Κανονική Παράδοση","shipping_type_standard_code":"CU_ADD-STD","shipping_zone_code":"Disprosites","shipping_zone_label":"Δυσπρόσιτα","total_commission":2.19,"total_price":13.62}],"total_count":1}
+10/09/2024 12:39:45 pm {"orders":[{"acceptance_decision_date":null,"can_cancel":false,"can_shop_ship":false,"channel":{"code":"GR","label":"Ελλάδα"},"commercial_id":"D508391427","created_date":"2024-09-10T07:11:45Z","currency_iso_code":"EUR","customer":{"billing_address":null,"civility":null,"customer_id":"pbc1250531725","firstname":"despoinazax","lastname":"Sacharidi","locale":null,"shipping_address":null},"customer_debited_date":null,"customer_directly_pays_seller":false,"customer_notification_email":"rl4r8pg5ax5.hinkpfk32@notification.mirakl.net","delivery_date":null,"fulfillment":{"center":{"code":"DEFAULT"}},"fully_refunded":false,"has_customer_message":false,"has_incident":false,"has_invoice":false,"last_updated_date":"2024-09-10T07:11:45Z","leadtime_to_ship":3,"order_additional_fields":[{"code":"billingtype","type":"LIST","value":"receipt"},{"code":"payment-token","type":"STRING","value":"636be796-a170-466c-95b3-9f6d4519f84d"}],"order_id":"D508391427-C","order_lines":[{"can_refund":false,"cancelations":[],"category_code":"sxolikes-tsantes-fagitou","category_label":"Σχολικές Τσάντες Φαγητού","commission_fee":1.77,"commission_rate_vat":24,"commission_taxes":[{"amount":0.42,"code":"TAXDEFAULT","rate":24}],"commission_vat":0.42,"created_date":"2024-09-10T07:11:45Z","debited_date":null,"description":null,"fees":[],"last_updated_date":"2024-09-10T07:11:45Z","offer_id":25752712,"offer_sku":"349-07220","offer_state_code":"11","order_line_additional_fields":[],"order_line_id":"D508391427-C-1","order_line_index":1,"order_line_state":"WAITING_ACCEPTANCE","order_line_state_reason_code":null,"order_line_state_reason_label":null,"price":8.06,"price_additional_info":null,"price_amount_breakdown":{"parts":[{"amount":8.06,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"price_unit":8.06,"product_medias":[{"media_url":"\/media\/product\/image\/25bad7cb-d250-446f-828f-d9eefb138166","mime_type":"JPG","type":"LARGE"},{"media_url":"\/media\/product\/image\/bc935923-4a83-4385-818f-e649ef6230d4","mime_type":"JPG","type":"SMALL"},{"media_url":"\/media\/product\/image\/ec84828d-67b2-419a-a9d9-f83a0b441a4f","mime_type":"JPG","type":"MEDIUM"}],"product_sku":"sku10640251pp","product_title":"Τσαντάκι Φαγητού Ισοθερμικό Gim Οβάλ Hippo Fisher Price","promotions":[],"quantity":1,"received_date":null,"refunds":[],"shipped_date":null,"shipping_from":{"address":{"city":null,"country_iso_code":"GRC","state":null,"street_1":null,"street_2":null,"zip_code":null},"warehouse":null},"shipping_price":5.56,"shipping_price_additional_unit":null,"shipping_price_amount_breakdown":{"parts":[{"amount":5.56,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"shipping_price_unit":null,"shipping_taxes":[{"amount":1.34,"amount_breakdown":{"parts":[{"amount":1.34,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"code":"VAT","tax_calculation_rule":"NONE"}],"taxes":[{"amount":1.93,"amount_breakdown":{"parts":[{"amount":1.93,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"code":"VAT","tax_calculation_rule":"NONE"}],"total_commission":2.19,"total_price":13.62}],"order_refunds":null,"order_state":"WAITING_ACCEPTANCE","order_state_reason_code":null,"order_state_reason_label":null,"order_tax_mode":"TAX_EXCLUDED","order_taxes":null,"paymentType":"CREDIT_CARD","payment_type":"CREDIT_CARD","payment_workflow":"PAY_ON_ACCEPTANCE","price":8.06,"promotions":{"applied_promotions":[],"total_deduced_amount":0},"quote_id":null,"shipping_carrier_code":null,"shipping_carrier_standard_code":null,"shipping_company":null,"shipping_deadline":"2024-09-13T20:59:59.999Z","shipping_price":5.56,"shipping_pudo_id":null,"shipping_tracking":null,"shipping_tracking_url":null,"shipping_type_code":"standard","shipping_type_label":"Κανονική Παράδοση","shipping_type_standard_code":"CU_ADD-STD","shipping_zone_code":"Disprosites","shipping_zone_label":"Δυσπρόσιτα","total_commission":2.19,"total_price":13.62}],"total_count":1}
+10/09/2024 12:39:56 pm {"orders":[{"acceptance_decision_date":null,"can_cancel":false,"can_shop_ship":false,"channel":{"code":"GR","label":"Ελλάδα"},"commercial_id":"D508391427","created_date":"2024-09-10T07:11:45Z","currency_iso_code":"EUR","customer":{"billing_address":null,"civility":null,"customer_id":"pbc1250531725","firstname":"despoinazax","lastname":"Sacharidi","locale":null,"shipping_address":null},"customer_debited_date":null,"customer_directly_pays_seller":false,"customer_notification_email":"rl4r8pg5ax5.hinkpfk32@notification.mirakl.net","delivery_date":null,"fulfillment":{"center":{"code":"DEFAULT"}},"fully_refunded":false,"has_customer_message":false,"has_incident":false,"has_invoice":false,"last_updated_date":"2024-09-10T07:11:45Z","leadtime_to_ship":3,"order_additional_fields":[{"code":"billingtype","type":"LIST","value":"receipt"},{"code":"payment-token","type":"STRING","value":"636be796-a170-466c-95b3-9f6d4519f84d"}],"order_id":"D508391427-C","order_lines":[{"can_refund":false,"cancelations":[],"category_code":"sxolikes-tsantes-fagitou","category_label":"Σχολικές Τσάντες Φαγητού","commission_fee":1.77,"commission_rate_vat":24,"commission_taxes":[{"amount":0.42,"code":"TAXDEFAULT","rate":24}],"commission_vat":0.42,"created_date":"2024-09-10T07:11:45Z","debited_date":null,"description":null,"fees":[],"last_updated_date":"2024-09-10T07:11:45Z","offer_id":25752712,"offer_sku":"349-07220","offer_state_code":"11","order_line_additional_fields":[],"order_line_id":"D508391427-C-1","order_line_index":1,"order_line_state":"WAITING_ACCEPTANCE","order_line_state_reason_code":null,"order_line_state_reason_label":null,"price":8.06,"price_additional_info":null,"price_amount_breakdown":{"parts":[{"amount":8.06,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"price_unit":8.06,"product_medias":[{"media_url":"\/media\/product\/image\/25bad7cb-d250-446f-828f-d9eefb138166","mime_type":"JPG","type":"LARGE"},{"media_url":"\/media\/product\/image\/bc935923-4a83-4385-818f-e649ef6230d4","mime_type":"JPG","type":"SMALL"},{"media_url":"\/media\/product\/image\/ec84828d-67b2-419a-a9d9-f83a0b441a4f","mime_type":"JPG","type":"MEDIUM"}],"product_sku":"sku10640251pp","product_title":"Τσαντάκι Φαγητού Ισοθερμικό Gim Οβάλ Hippo Fisher Price","promotions":[],"quantity":1,"received_date":null,"refunds":[],"shipped_date":null,"shipping_from":{"address":{"city":null,"country_iso_code":"GRC","state":null,"street_1":null,"street_2":null,"zip_code":null},"warehouse":null},"shipping_price":5.56,"shipping_price_additional_unit":null,"shipping_price_amount_breakdown":{"parts":[{"amount":5.56,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"shipping_price_unit":null,"shipping_taxes":[{"amount":1.34,"amount_breakdown":{"parts":[{"amount":1.34,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"code":"VAT","tax_calculation_rule":"NONE"}],"taxes":[{"amount":1.93,"amount_breakdown":{"parts":[{"amount":1.93,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"code":"VAT","tax_calculation_rule":"NONE"}],"total_commission":2.19,"total_price":13.62}],"order_refunds":null,"order_state":"WAITING_ACCEPTANCE","order_state_reason_code":null,"order_state_reason_label":null,"order_tax_mode":"TAX_EXCLUDED","order_taxes":null,"paymentType":"CREDIT_CARD","payment_type":"CREDIT_CARD","payment_workflow":"PAY_ON_ACCEPTANCE","price":8.06,"promotions":{"applied_promotions":[],"total_deduced_amount":0},"quote_id":null,"shipping_carrier_code":null,"shipping_carrier_standard_code":null,"shipping_company":null,"shipping_deadline":"2024-09-13T20:59:59.999Z","shipping_price":5.56,"shipping_pudo_id":null,"shipping_tracking":null,"shipping_tracking_url":null,"shipping_type_code":"standard","shipping_type_label":"Κανονική Παράδοση","shipping_type_standard_code":"CU_ADD-STD","shipping_zone_code":"Disprosites","shipping_zone_label":"Δυσπρόσιτα","total_commission":2.19,"total_price":13.62}],"total_count":1}
+10/09/2024 12:42:02 pm {"orders":[{"acceptance_decision_date":null,"can_cancel":false,"can_shop_ship":false,"channel":{"code":"GR","label":"Ελλάδα"},"commercial_id":"D508391427","created_date":"2024-09-10T07:11:45Z","currency_iso_code":"EUR","customer":{"billing_address":null,"civility":null,"customer_id":"pbc1250531725","firstname":"despoinazax","lastname":"Sacharidi","locale":null,"shipping_address":null},"customer_debited_date":null,"customer_directly_pays_seller":false,"customer_notification_email":"rl4r8pg5ax5.hinkpfk32@notification.mirakl.net","delivery_date":null,"fulfillment":{"center":{"code":"DEFAULT"}},"fully_refunded":false,"has_customer_message":false,"has_incident":false,"has_invoice":false,"last_updated_date":"2024-09-10T07:11:45Z","leadtime_to_ship":3,"order_additional_fields":[{"code":"billingtype","type":"LIST","value":"receipt"},{"code":"payment-token","type":"STRING","value":"636be796-a170-466c-95b3-9f6d4519f84d"}],"order_id":"D508391427-C","order_lines":[{"can_refund":false,"cancelations":[],"category_code":"sxolikes-tsantes-fagitou","category_label":"Σχολικές Τσάντες Φαγητού","commission_fee":1.77,"commission_rate_vat":24,"commission_taxes":[{"amount":0.42,"code":"TAXDEFAULT","rate":24}],"commission_vat":0.42,"created_date":"2024-09-10T07:11:45Z","debited_date":null,"description":null,"fees":[],"last_updated_date":"2024-09-10T07:11:45Z","offer_id":25752712,"offer_sku":"349-07220","offer_state_code":"11","order_line_additional_fields":[],"order_line_id":"D508391427-C-1","order_line_index":1,"order_line_state":"WAITING_ACCEPTANCE","order_line_state_reason_code":null,"order_line_state_reason_label":null,"price":8.06,"price_additional_info":null,"price_amount_breakdown":{"parts":[{"amount":8.06,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"price_unit":8.06,"product_medias":[{"media_url":"\/media\/product\/image\/25bad7cb-d250-446f-828f-d9eefb138166","mime_type":"JPG","type":"LARGE"},{"media_url":"\/media\/product\/image\/bc935923-4a83-4385-818f-e649ef6230d4","mime_type":"JPG","type":"SMALL"},{"media_url":"\/media\/product\/image\/ec84828d-67b2-419a-a9d9-f83a0b441a4f","mime_type":"JPG","type":"MEDIUM"}],"product_sku":"sku10640251pp","product_title":"Τσαντάκι Φαγητού Ισοθερμικό Gim Οβάλ Hippo Fisher Price","promotions":[],"quantity":1,"received_date":null,"refunds":[],"shipped_date":null,"shipping_from":{"address":{"city":null,"country_iso_code":"GRC","state":null,"street_1":null,"street_2":null,"zip_code":null},"warehouse":null},"shipping_price":5.56,"shipping_price_additional_unit":null,"shipping_price_amount_breakdown":{"parts":[{"amount":5.56,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"shipping_price_unit":null,"shipping_taxes":[{"amount":1.34,"amount_breakdown":{"parts":[{"amount":1.34,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"code":"VAT","tax_calculation_rule":"NONE"}],"taxes":[{"amount":1.93,"amount_breakdown":{"parts":[{"amount":1.93,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"code":"VAT","tax_calculation_rule":"NONE"}],"total_commission":2.19,"total_price":13.62}],"order_refunds":null,"order_state":"WAITING_ACCEPTANCE","order_state_reason_code":null,"order_state_reason_label":null,"order_tax_mode":"TAX_EXCLUDED","order_taxes":null,"paymentType":"CREDIT_CARD","payment_type":"CREDIT_CARD","payment_workflow":"PAY_ON_ACCEPTANCE","price":8.06,"promotions":{"applied_promotions":[],"total_deduced_amount":0},"quote_id":null,"shipping_carrier_code":null,"shipping_carrier_standard_code":null,"shipping_company":null,"shipping_deadline":"2024-09-13T20:59:59.999Z","shipping_price":5.56,"shipping_pudo_id":null,"shipping_tracking":null,"shipping_tracking_url":null,"shipping_type_code":"standard","shipping_type_label":"Κανονική Παράδοση","shipping_type_standard_code":"CU_ADD-STD","shipping_zone_code":"Disprosites","shipping_zone_label":"Δυσπρόσιτα","total_commission":2.19,"total_price":13.62}],"total_count":1}
+10/09/2024 01:25:42 pm {"orders":[{"acceptance_decision_date":null,"can_cancel":false,"can_shop_ship":false,"channel":{"code":"GR","label":"Ελλάδα"},"commercial_id":"D508391427","created_date":"2024-09-10T07:11:45Z","currency_iso_code":"EUR","customer":{"billing_address":null,"civility":null,"customer_id":"pbc1250531725","firstname":"despoinazax","lastname":"Sacharidi","locale":null,"shipping_address":null},"customer_debited_date":null,"customer_directly_pays_seller":false,"customer_notification_email":"rl4r8pg5ax5.hinkpfk32@notification.mirakl.net","delivery_date":null,"fulfillment":{"center":{"code":"DEFAULT"}},"fully_refunded":false,"has_customer_message":false,"has_incident":false,"has_invoice":false,"last_updated_date":"2024-09-10T07:11:45Z","leadtime_to_ship":3,"order_additional_fields":[{"code":"billingtype","type":"LIST","value":"receipt"},{"code":"payment-token","type":"STRING","value":"636be796-a170-466c-95b3-9f6d4519f84d"}],"order_id":"D508391427-C","order_lines":[{"can_refund":false,"cancelations":[],"category_code":"sxolikes-tsantes-fagitou","category_label":"Σχολικές Τσάντες Φαγητού","commission_fee":1.77,"commission_rate_vat":24,"commission_taxes":[{"amount":0.42,"code":"TAXDEFAULT","rate":24}],"commission_vat":0.42,"created_date":"2024-09-10T07:11:45Z","debited_date":null,"description":null,"fees":[],"last_updated_date":"2024-09-10T07:11:45Z","offer_id":25752712,"offer_sku":"349-07220","offer_state_code":"11","order_line_additional_fields":[],"order_line_id":"D508391427-C-1","order_line_index":1,"order_line_state":"WAITING_ACCEPTANCE","order_line_state_reason_code":null,"order_line_state_reason_label":null,"price":8.06,"price_additional_info":null,"price_amount_breakdown":{"parts":[{"amount":8.06,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"price_unit":8.06,"product_medias":[{"media_url":"\/media\/product\/image\/25bad7cb-d250-446f-828f-d9eefb138166","mime_type":"JPG","type":"LARGE"},{"media_url":"\/media\/product\/image\/bc935923-4a83-4385-818f-e649ef6230d4","mime_type":"JPG","type":"SMALL"},{"media_url":"\/media\/product\/image\/ec84828d-67b2-419a-a9d9-f83a0b441a4f","mime_type":"JPG","type":"MEDIUM"}],"product_sku":"sku10640251pp","product_title":"Τσαντάκι Φαγητού Ισοθερμικό Gim Οβάλ Hippo Fisher Price","promotions":[],"quantity":1,"received_date":null,"refunds":[],"shipped_date":null,"shipping_from":{"address":{"city":null,"country_iso_code":"GRC","state":null,"street_1":null,"street_2":null,"zip_code":null},"warehouse":null},"shipping_price":5.56,"shipping_price_additional_unit":null,"shipping_price_amount_breakdown":{"parts":[{"amount":5.56,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"shipping_price_unit":null,"shipping_taxes":[{"amount":1.34,"amount_breakdown":{"parts":[{"amount":1.34,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"code":"VAT","tax_calculation_rule":"NONE"}],"taxes":[{"amount":1.93,"amount_breakdown":{"parts":[{"amount":1.93,"commissionable":true,"debitable_from_customer":true,"payable_to_shop":true}]},"code":"VAT","tax_calculation_rule":"NONE"}],"total_commission":2.19,"total_price":13.62}],"order_refunds":null,"order_state":"WAITING_ACCEPTANCE","order_state_reason_code":null,"order_state_reason_label":null,"order_tax_mode":"TAX_EXCLUDED","order_taxes":null,"paymentType":"CREDIT_CARD","payment_type":"CREDIT_CARD","payment_workflow":"PAY_ON_ACCEPTANCE","price":8.06,"promotions":{"applied_promotions":[],"total_deduced_amount":0},"quote_id":null,"shipping_carrier_code":null,"shipping_carrier_standard_code":null,"shipping_company":null,"shipping_deadline":"2024-09-13T20:59:59.999Z","shipping_price":5.56,"shipping_pudo_id":null,"shipping_tracking":null,"shipping_tracking_url":null,"shipping_type_code":"standard","shipping_type_label":"Κανονική Παράδοση","shipping_type_standard_code":"CU_ADD-STD","shipping_zone_code":"Disprosites","shipping_zone_label":"Δυσπρόσιτα","total_commission":2.19,"total_price":13.62}],"total_count":1}
+11/09/2024 05:50:31 am {"orders":[],"total_count":0}
