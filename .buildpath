@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<buildpath>
-	<buildpathentry external="true" kind="lib" path="D:/Users/User/Onedrive/Έγγραφα/Websites/www.odosermou.dev.cc/wp-includes"/>
-	<buildpathentry kind="src" path=""/>
-	<buildpathentry kind="con" path="org.eclipse.php.core.LANGUAGE"/>
-	<buildpathentry external="true" kind="lib" path="D:/Users/User/Onedrive/Έγγραφα/Websites/www.odosermou.dev.cc/wp-content/plugins/woocommerce"/>
-</buildpath>
