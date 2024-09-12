@@ -131,9 +131,22 @@ class Mirakl_Connect_Import_Order {
 				// Set calculated totals
 				$order->calculate_totals();
 
+				// Set Public Attribution
+				$meta = array(
+					'_wc_order_attribution_origin'             => 'Public.gr',
+					'_wc_order_attribution_utm_content'        => '/',
+					'_wc_order_attribution_utm_medium'         => 'referral',
+					'_wc_order_attribution_utm_source'         => 'Public.gr',
+					'_wc_order_attribution_referrer'           => 'https://www.public.gr/',
+					'_wc_order_attribution_source_type'        => 'referral',
+				);
+				foreach ( $meta as $key => $value ) {
+					$order->add_meta_data( $key, $value );
+				}
 				// Update order status from pending to your defined status
 				$order->update_status( 'on-hold' );
 				$order->add_order_note( 'E-mail πελάτη: ' . $mirakl_order->customer_notification_email );
+
 			} //if
 		} // for each
 	} //  import_orders_from_mirakl()
