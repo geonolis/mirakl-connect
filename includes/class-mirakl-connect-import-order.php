@@ -284,6 +284,8 @@ class Mirakl_Connect_Import_Order {
 			$post_fields = "{ \"carrier_code\": \"Geniki Taxydromiki\",  \"carrier_name\": 
                 \"Geniki Taxydromiki\", \"carrier_url\": \"https://www.taxydromiki.com/track/" . $tracking_nr . "\", \"tracking_number\": " . $tracking_nr . "} ";
 			$url_options = $mirakl_order_id . "/tracking";
+
+			// OR23 - Update courier tracking info
 			$response=$this->mirakl_curl( $url_options, $post_fields );
 			/*
 			// init CURL
@@ -310,7 +312,7 @@ class Mirakl_Connect_Import_Order {
 			$order->add_order_note( $response );
 
 			$url_options= $mirakl_order_id . "/ship";
-			$post_fields=null;
+			$post_fields='{}';
 			$response=$this->mirakl_curl($url_options, $post_fields);
 
 			/*
