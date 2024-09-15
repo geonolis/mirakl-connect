@@ -387,14 +387,17 @@ class Mirakl_Connect_Import_Order {
 		// prepare post fields as JSON array
 		$post_fields = '{ "order_lines": [ ';
 		// iterate woo order items to get mirakl order line id from custom meta
+		$item_lines=count($order->get_items());
 		foreach ( $order->get_items() as $item_id => $item ):
 			$custom_field = wc_get_order_item_meta( $item_id, '_mirakl_line_num', true );
-			$post_fields  = $post_fields . '{
+			$post_fields  .= '{
                     "accepted": "' . $true_false . '",
-                    "id":"' . $custom_field . '" },';
+                    "id":"' . $custom_field . '" }';
+			if($item_lines>1) $post_fields  .= ',';
+			$item_lines--;
 		endforeach;
 		// close post fields array
-		$post_fields = $post_fields . "] }";
+		$post_fields .= "] }";
 		// get mirakl order id from woo
 		$mirakl_order_id = $order->get_transaction_id();
 		$order->add_order_note( $post_fields ); //test
