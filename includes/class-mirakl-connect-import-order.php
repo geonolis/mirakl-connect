@@ -391,7 +391,7 @@ class Mirakl_Connect_Import_Order {
 			$custom_field = wc_get_order_item_meta( $item_id, '_mirakl_line_num', true );
 			$post_fields  = $post_fields . '{
                     "accepted": "' . $true_false . '",
-                    "id":"' . $custom_field . '" }';
+                    "id":"' . $custom_field . '" },';
 		endforeach;
 		// close post fields array
 		$post_fields = $post_fields . "] }";
