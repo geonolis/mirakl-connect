@@ -155,6 +155,8 @@ class Mirakl_Connect_Import_Order {
 					}
 				}
 
+				$order->update_meta_data( 'shipping_deadline', $mirakl_order->shipping_deadline );
+
 				// Update order status from pending to your defined status
 				$order->update_status( 'on-hold' );
 				$order->add_order_note( 'E-mail πελάτη: ' . $mirakl_order->customer_notification_email );
@@ -166,6 +168,12 @@ class Mirakl_Connect_Import_Order {
 	function show_afm_field_admin_order_meta( $order ){
 		if ( $order->meta_exists( 'afm' ))
 		echo '<p style="color:red;"><strong>Προσοχή, θέλει τιμολόγιο!<br>' . esc_html__( 'ΑΦΜ' ) . ':</strong> ' . esc_html( $order->get_meta( 'afm', true ) ) . '</p>';
+	}
+
+	function show_shipping_deadline_field_admin_order_meta( $order ){
+		if ( $order->meta_exists( 'shipping_deadline' ))
+			echo '<p class="form-field form-field-wide"><strong>' . esc_html__( 'Αποστολή μέχρι' ) . ':</strong> ' . date_i18n( "j F Y, στις H:00", strtotime( $order->get_meta( 'shipping_deadline' ) ) ) . '</p>';
+		
 	}
 
 	/**

@@ -191,6 +191,7 @@ class Mirakl_Connect {
 		$this->loader->add_action( 'woocommerce_order_status_cancelled', $mirakl_import, 'mirakl_notify_reject_order', 10, 1 );
 		$this->loader->add_action( 'woocommerce_admin_order_data_after_payment_info', $mirakl_import, 'mirakl_order_link', 10, 1 );
 		$this->loader->add_action( 'woocommerce_admin_order_data_after_billing_address', $mirakl_import, 'show_afm_field_admin_order_meta', 10, 1 );
+		$this->loader->add_action( 'woocommerce_admin_order_data_after_order_details', $mirakl_import, 'show_shipping_deadline_field_admin_order_meta', 10, 1 );
 
 		$mirakl_api=new Mirakl_API();
 		// Stock Sync
