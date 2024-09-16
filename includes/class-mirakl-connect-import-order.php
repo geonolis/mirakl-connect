@@ -140,9 +140,21 @@ class Mirakl_Connect_Import_Order {
 					'_wc_order_attribution_referrer'           => 'https://www.public.gr/',
 					'_wc_order_attribution_source_type'        => 'referral',
 				);
+
 				foreach ( $meta as $key => $value ) {
 					$order->add_meta_data( $key, $value );
 				}
+
+				// iterate mirakl order_additional_fields to see if needs invoice and get AFM
+				foreach ($mirakl_order->order_additional_fields as $mirakl_additional_field) {
+//					if($mirakl_additional_field->code=='billing_type')
+//						$order_needs_invoice=($mirakl_additional_fields->value=='invoice');
+					if($mirakl_additional_field->code=='taxcode') {
+						$afm = $mirakl_additional_field->value;
+						$order->update_meta_data( 'afm', $afm );
+					}
+				}
+
 				// Update order status from pending to your defined status
 				$order->update_status( 'on-hold' );
 				$order->add_order_note( 'E-mail πελάτη: ' . $mirakl_order->customer_notification_email );
@@ -150,6 +162,11 @@ class Mirakl_Connect_Import_Order {
 			} //if
 		} // for each
 	} //  import_orders_from_mirakl()
+
+	function show_afm_field_admin_order_meta( $order ){
+		if ( $order->meta_exists( 'afm' ))
+		echo '<p style="color:red;"><strong>Προσοχή, θέλει τιμολόγιο!<br>' . esc_html__( 'ΑΦΜ' ) . ':</strong> ' . esc_html( $order->get_meta( 'afm', true ) ) . '</p>';
+	}
 
 	/**
 	 * Gets order shipping details from mirakl after order acceptance
