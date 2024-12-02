@@ -173,7 +173,7 @@ class Mirakl_Connect_Import_Order {
 	function show_shipping_deadline_field_admin_order_meta( $order ){
 		if ( $order->meta_exists( 'shipping_deadline' ))
 			echo '<p class="form-field form-field-wide"><strong>' . esc_html__( 'Αποστολή μέχρι' ) . ':</strong> ' . date_i18n( "j F Y, στις H:00", strtotime( $order->get_meta( 'shipping_deadline' ) ) ) . '</p>';
-		
+
 	}
 
 	/**
@@ -221,8 +221,8 @@ class Mirakl_Connect_Import_Order {
 				$mirakl_customer        = $mirakl_order->customer;
 				$mirakl_billing_address = $mirakl_order->customer->billing_address;
 				$woo_billing_address    = array(
-					'first_name' => $mirakl_customer->firstname,
-					'last_name'  => $mirakl_customer->lastname,
+					'first_name' => $mirakl_billing_address->firstname,
+					'last_name'  => $mirakl_billing_address->lastname,
 					'company'    => '',
 					'email'      => '',
 					'phone'      => $mirakl_billing_address->phone,
@@ -236,8 +236,8 @@ class Mirakl_Connect_Import_Order {
 				$woo_order->set_billing_address( $woo_billing_address );
 				$mirakl_shipping_address = $mirakl_order->customer->shipping_address;
 				$woo_shipping_address    = array(
-					'first_name' => $mirakl_customer->firstname,
-					'last_name'  => $mirakl_customer->lastname,
+					'first_name' => $mirakl_shipping_address->firstname,
+					'last_name'  => $mirakl_shipping_address->lastname,
 					'company'    => '',
 //						'email'      => '',
 					'phone'      => $mirakl_shipping_address->phone,
